@@ -1,0 +1,1201 @@
+encounter_id,patient_id,admission_date,discharge_date,age,age_band,service,primary_diagnosis,procedure,admission_type,discharge_disposition,length_of_stay_days,readmitted_within_30_days
+E000851,P00638,2024-05-05,2024-05-07,29,18-29,General Medicine,Heart failure,None recorded,Emergency,Home,2,1
+E000731,P00474,2024-03-06,2024-03-11,33,30-44,Endocrinology,Kidney disease,Respiratory therapy,Urgent,Home,5,0
+E000033,P00060,2025-12-09,2025-12-11,22,18-29,Cardiology,COPD,Surgical procedure,Elective,Skilled nursing facility,2,1
+E001017,P00250,2024-11-24,2024-12-12,42,30-44,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,18,0
+E000584,P00034,2025-11-28,2025-12-05,40,30-44,Cardiology,Pneumonia,Cardiac procedure,Emergency,Other facility,7,0
+E000470,P00607,2025-06-13,2025-06-15,61,60-74,Cardiology,COPD,Blood test,Elective,Home,2,0
+E000950,P00181,2025-09-15,2025-09-21,46,45-59,Cardiology,Kidney disease,Blood test,Urgent,Home,6,0
+E000092,P00524,2025-09-18,2025-09-28,57,45-59,General Medicine,Heart failure,Blood test,Emergency,Home,10,0
+E000521,P00233,2024-03-05,2024-03-14,84,75+,General Medicine,Pneumonia,Blood test,Emergency,Home,9,0
+E000793,P00470,2024-07-28,2024-08-05,33,30-44,Respiratory,Type 2 diabetes,Imaging,Elective,Home,8,0
+E000587,P00449,2024-05-24,2024-05-27,38,30-44,Endocrinology,Hypertension,Blood test,Elective,Home,3,0
+E000870,P00027,2024-11-02,2024-11-03,29,18-29,Endocrinology,Type 2 diabetes,Blood test,Elective,Rehabilitation,1,0
+E000562,P00029,2024-10-25,2024-10-30,73,60-74,Cardiology,COPD,Cardiac procedure,Emergency,Home,5,0
+E000774,P00467,2024-09-06,2024-09-15,41,30-44,General Medicine,Heart failure,Blood test,Emergency,Home,9,0
+E000523,P00125,2025-04-21,2025-04-22,22,18-29,Endocrinology,Kidney disease,Blood test,Emergency,Home,1,0
+E000769,P00091,2025-09-04,2025-09-16,42,30-44,General Medicine,Pneumonia,Respiratory therapy,Urgent,Rehabilitation,12,0
+E000031,P00293,2025-08-22,2025-08-26,84,75+,Respiratory,Kidney disease,Imaging,Emergency,Home,4,0
+E000569,P00418,2024-02-19,2024-02-23,81,75+,General Medicine,Pneumonia,None recorded,Urgent,Home,4,0
+E000110,P00459,2025-09-14,2025-09-16,70,60-74,Surgery,COPD,None recorded,Elective,Home,2,0
+E000630,P00239,2025-12-18,2025-12-21,29,18-29,Endocrinology,Pneumonia,Blood test,Emergency,Home,3,0
+E000525,P00208,2025-01-24,2025-01-30,36,30-44,General Medicine,Pneumonia,None recorded,Emergency,Other facility,6,0
+E000803,P00336,2024-10-17,2024-10-18,28,18-29,General Medicine,Type 2 diabetes,Blood test,Urgent,Home,1,0
+E000437,P00369,2024-04-30,2024-05-02,52,45-59,Cardiology,Hypertension,Blood test,Emergency,Home,2,0
+E000271,P00192,2025-10-17,2025-10-23,45,45-59,General Medicine,Pneumonia,Blood test,Emergency,Home,6,0
+E000674,P00062,2025-11-18,2025-11-25,33,30-44,General Medicine,COPD,Blood test,Elective,Skilled nursing facility,7,1
+E000566,P00154,2025-11-13,2025-11-14,32,30-44,Cardiology,Heart failure,Blood test,Emergency,Home,1,1
+E001189,P00369,2025-11-28,2025-12-05,52,45-59,General Medicine,Heart failure,Surgical procedure,Emergency,Home,7,0
+E000444,P00318,2025-03-10,2025-03-13,68,60-74,Cardiology,Type 2 diabetes,None recorded,Emergency,Rehabilitation,3,0
+E000226,P00199,2025-08-17,2025-08-19,88,75+,Endocrinology,Type 2 diabetes,None recorded,Urgent,Skilled nursing facility,2,0
+E001152,P00329,2025-07-01,2025-07-05,60,60-74,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000254,P00215,2024-06-28,2024-06-30,25,18-29,Cardiology,COPD,Imaging,Emergency,Other facility,2,0
+E000463,P00487,2024-05-15,2024-06-02,86,75+,Endocrinology,Kidney disease,None recorded,Emergency,Home,18,0
+E001161,P00379,2025-04-18,2025-04-27,46,45-59,Respiratory,Type 2 diabetes,Blood test,Elective,Rehabilitation,9,0
+E000269,P00399,2025-07-21,2025-07-22,69,60-74,Endocrinology,Pneumonia,Respiratory therapy,Emergency,Rehabilitation,1,0
+E000400,P00202,2025-05-31,2025-06-06,33,30-44,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,6,0
+E000159,P00329,2024-03-16,2024-03-21,60,60-74,General Medicine,Heart failure,Blood test,Emergency,Rehabilitation,5,0
+E000332,P00242,2024-01-07,2024-01-08,54,45-59,General Medicine,Pneumonia,None recorded,Emergency,Home,1,0
+E000279,P00043,2024-06-17,2024-06-23,18,18-29,Endocrinology,COPD,Imaging,Emergency,Home,6,0
+E001192,P00181,2024-05-20,2024-05-27,46,45-59,Cardiology,Pneumonia,Imaging,Emergency,Skilled nursing facility,7,0
+E000229,P00356,2024-07-13,2024-07-14,81,75+,Respiratory,Hypertension,Blood test,Elective,Home,1,0
+E001004,P00577,2024-09-02,2024-09-03,54,45-59,Respiratory,COPD,Imaging,Emergency,Home,1,0
+E000700,P00062,2024-09-04,2024-09-05,33,30-44,Surgery,Type 2 diabetes,None recorded,Emergency,Home,1,0
+E000586,P00602,2024-06-26,2024-06-30,67,60-74,Cardiology,Hypertension,Imaging,Elective,Rehabilitation,4,0
+E000136,P00198,2025-12-30,2026-01-02,70,60-74,General Medicine,Heart failure,Surgical procedure,Elective,Home,3,0
+E000639,P00516,2024-06-11,2024-06-13,49,45-59,Cardiology,Pneumonia,Respiratory therapy,Urgent,Home,2,0
+E000154,P00191,2025-10-30,2025-10-31,23,18-29,Respiratory,Pneumonia,None recorded,Emergency,Home,1,0
+E000307,P00197,2025-10-29,2025-10-31,54,45-59,Surgery,Type 2 diabetes,None recorded,Emergency,Home,2,0
+E000540,P00014,2024-05-29,2024-06-02,61,60-74,Cardiology,Heart failure,None recorded,Emergency,,4,0
+E001099,P00027,2024-06-11,2024-06-15,29,18-29,Surgery,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E001115,P00127,2024-06-14,2024-06-20,52,45-59,General Medicine,Heart failure,Cardiac procedure,Elective,Skilled nursing facility,6,0
+E000675,P00405,2024-10-25,2024-11-02,30,30-44,Endocrinology,COPD,Blood test,Emergency,Rehabilitation,8,0
+E000694,P00615,2025-06-02,2025-06-06,53,45-59,Surgery,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000088,P00204,2024-06-20,2024-06-23,59,45-59,Respiratory,COPD,Surgical procedure,Urgent,Home,3,0
+E000948,P00088,2025-11-14,2025-12-06,22,18-29,Respiratory,Heart failure,Imaging,Emergency,Home,22,0
+E000024,P00603,2025-04-22,2025-04-28,85,75+,General Medicine,Pneumonia,Respiratory therapy,Urgent,Home,6,0
+E000534,P00186,2025-09-23,2025-09-29,58,45-59,General Medicine,Pneumonia,None recorded,Emergency,Home,6,0
+E000028,P00535,2025-12-19,2025-12-20,76,75+,General Medicine,Kidney disease,Surgical procedure,Emergency,Rehabilitation,1,0
+E000959,P00632,2025-08-16,2025-08-21,37,30-44,General Medicine,Pneumonia,,Emergency,Home,5,0
+E000090,P00541,2025-03-29,2025-04-03,70,60-74,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,5,0
+E000338,P00207,2024-03-21,2024-03-24,56,45-59,Surgery,Type 2 diabetes,,Emergency,Home,3,0
+E000292,P00174,2024-12-23,2024-12-25,46,45-59,Respiratory,Hypertension,Imaging,Emergency,Home,2,0
+E000705,P00085,2024-08-31,2024-09-03,43,30-44,Endocrinology,Kidney disease,Blood test,Elective,Skilled nursing facility,3,1
+E000467,P00108,2025-07-02,2025-07-07,63,60-74,Endocrinology,Type 2 diabetes,Cardiac procedure,Elective,Home,5,0
+E001122,P00055,2024-01-26,2024-01-30,78,75+,Respiratory,COPD,None recorded,Urgent,Home,4,0
+E000721,P00091,2024-10-14,2024-10-17,42,30-44,General Medicine,Heart failure,Surgical procedure,Urgent,Other facility,3,0
+E000302,P00538,2024-07-09,2024-07-14,70,60-74,Cardiology,Type 2 diabetes,Imaging,Urgent,Home,5,0
+E000811,P00029,2024-12-28,2025-01-02,73,60-74,Endocrinology,Kidney disease,Cardiac procedure,Elective,Home,5,0
+E000188,P00248,2024-08-25,2024-09-02,75,75+,Surgery,Pneumonia,Cardiac procedure,Emergency,Home,8,0
+E001102,P00306,2024-04-15,2024-04-19,38,30-44,Endocrinology,Type 2 diabetes,Blood test,Emergency,Other facility,4,0
+E000407,P00282,2024-04-17,2024-04-18,25,18-29,Endocrinology,Hypertension,Surgical procedure,Urgent,Home,1,0
+E000068,P00241,2024-09-29,2024-10-08,35,30-44,Surgery,COPD,None recorded,Emergency,Home,9,0
+E000198,P00077,2025-04-22,2025-04-28,56,45-59,Endocrinology,Type 2 diabetes,Respiratory therapy,Urgent,Home,6,0
+E000511,P00647,2024-09-07,2024-09-09,71,60-74,Respiratory,Type 2 diabetes,Imaging,Elective,Home,2,0
+E000352,P00030,2025-09-14,2025-09-21,37,30-44,General Medicine,Heart failure,Blood test,Emergency,Home,7,0
+E001055,P00050,2024-08-03,2024-08-15,30,30-44,Surgery,Hypertension,Surgical procedure,Emergency,Home,12,0
+E000022,P00242,2025-02-07,2025-02-11,54,45-59,General Medicine,Type 2 diabetes,None recorded,Urgent,Other facility,4,0
+E000938,P00097,2024-01-17,2024-01-19,76,75+,General Medicine,Hypertension,Blood test,Emergency,Home,2,0
+E000699,P00033,2025-06-29,2025-06-30,29,18-29,General Medicine,Heart failure,,Emergency,Home,1,0
+E000016,P00511,2024-03-24,2024-03-30,26,18-29,Respiratory,Type 2 diabetes,None recorded,Elective,Skilled nursing facility,6,0
+E000177,P00467,2025-12-03,2025-12-10,41,30-44,Surgery,Hypertension,Imaging,Elective,Home,7,0
+E000466,P00629,2024-10-16,2024-10-22,34,30-44,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,6,0
+E000704,P00112,2024-06-30,2024-07-02,80,75+,General Medicine,Hypertension,,Emergency,Home,2,0
+E001077,P00463,2024-06-02,2024-06-04,78,75+,Endocrinology,Type 2 diabetes,Imaging,Emergency,Home,2,0
+E000087,P00064,2025-10-24,2025-10-28,60,60-74,Respiratory,Hypertension,None recorded,Emergency,Rehabilitation,4,0
+E000070,P00306,2024-02-05,2024-02-12,38,30-44,Respiratory,Kidney disease,None recorded,Urgent,Home,7,0
+E001093,P00548,2024-06-20,2024-06-27,54,45-59,Respiratory,Type 2 diabetes,Blood test,Elective,Skilled nursing facility,7,0
+E000048,P00581,2024-12-05,2024-12-06,70,60-74,Endocrinology,Hypertension,Blood test,Urgent,Other facility,1,0
+E000241,P00092,2025-07-23,2025-07-26,37,30-44,General Medicine,Pneumonia,None recorded,Urgent,Home,3,0
+E000590,P00549,2025-07-04,2025-07-08,56,45-59,General Medicine,Heart failure,None recorded,Emergency,Rehabilitation,4,0
+E001010,P00339,2024-04-10,2024-04-13,53,45-59,Surgery,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000869,P00291,2024-08-29,2024-08-30,71,60-74,General Medicine,Type 2 diabetes,Surgical procedure,Urgent,Home,1,0
+E000373,P00267,2025-06-19,2025-06-21,35,30-44,General Medicine,Heart failure,Imaging,Emergency,Home,2,0
+E000315,P00159,2024-06-29,2024-07-04,20,18-29,Respiratory,COPD,Imaging,Emergency,Home,5,0
+E000167,P00209,2024-08-08,2024-08-09,56,45-59,Surgery,Hypertension,Cardiac procedure,Emergency,Home,1,0
+E000816,P00544,2024-08-20,2024-08-25,31,30-44,General Medicine,Hypertension,None recorded,Elective,Home,5,0
+E000079,P00367,2024-01-06,2024-01-13,44,30-44,Respiratory,Pneumonia,None recorded,Emergency,Home,7,0
+E000798,P00299,2025-12-26,2026-01-06,27,18-29,Cardiology,Type 2 diabetes,Blood test,Elective,Other facility,11,0
+E000128,P00498,2024-03-02,2024-03-04,63,60-74,General Medicine,Kidney disease,Blood test,Emergency,Home,2,0
+E000857,P00160,2025-06-20,2025-06-22,61,60-74,General Medicine,Kidney disease,Surgical procedure,Emergency,Home,2,0
+E000818,P00070,2025-06-14,2025-06-19,33,30-44,Respiratory,Hypertension,Cardiac procedure,Emergency,Rehabilitation,5,0
+E000183,P00324,2024-09-10,2024-09-11,45,45-59,Cardiology,,Imaging,Emergency,Home,1,0
+E000497,P00078,2024-12-08,2024-12-12,30,30-44,General Medicine,Kidney disease,None recorded,Emergency,Skilled nursing facility,4,0
+E001200,P00404,2025-06-20,2025-06-21,22,18-29,General Medicine,Type 2 diabetes,Imaging,Elective,Home,1,0
+E000217,P00052,2025-04-08,2025-04-13,82,75+,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,5,1
+E000805,P00480,2025-08-05,2025-08-08,89,75+,Cardiology,Pneumonia,Blood test,Emergency,Home,3,0
+E000996,P00407,2025-08-18,2025-08-20,39,30-44,General Medicine,COPD,Blood test,Emergency,Home,2,0
+E001006,P00599,2025-08-05,2025-08-14,49,45-59,Endocrinology,Hypertension,Cardiac procedure,Emergency,Home,9,0
+E000714,P00497,2025-07-21,2025-07-22,66,60-74,Cardiology,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,1,0
+E000208,P00630,2025-09-30,2025-10-02,83,75+,Respiratory,Pneumonia,Blood test,Emergency,Home,2,1
+E000278,P00509,2024-10-14,2024-10-17,27,18-29,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,1
+E000748,P00205,2025-10-31,2025-11-07,73,60-74,Respiratory,Pneumonia,None recorded,Emergency,Home,7,0
+E000512,P00485,2024-12-08,2024-12-11,43,30-44,Surgery,Hypertension,Respiratory therapy,Emergency,Home,3,0
+E000945,P00085,2024-09-21,2024-09-28,43,30-44,General Medicine,Pneumonia,Imaging,Emergency,Home,7,0
+E000794,P00537,2025-04-11,2025-04-20,74,60-74,Cardiology,Pneumonia,Blood test,Urgent,Home,9,0
+E000578,P00341,2024-04-28,2024-04-30,31,30-44,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,2,0
+E001150,P00554,2025-01-03,2025-01-10,49,45-59,Endocrinology,Hypertension,Surgical procedure,Emergency,Home,7,0
+E000052,P00127,2024-10-27,2024-10-29,52,45-59,Respiratory,COPD,None recorded,Emergency,Home,2,1
+E000443,P00086,2024-11-22,2024-11-25,44,30-44,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000085,P00410,2024-10-05,2024-10-06,31,30-44,Cardiology,Type 2 diabetes,Imaging,Emergency,Home,1,0
+E000182,P00100,2024-07-26,2024-07-29,85,75+,General Medicine,Hypertension,Imaging,Urgent,Skilled nursing facility,3,0
+E000905,P00299,2025-09-27,2025-10-06,27,18-29,Respiratory,Type 2 diabetes,Respiratory therapy,Emergency,Other facility,9,0
+E000234,P00494,2025-02-14,2025-02-20,84,75+,Surgery,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,6,0
+E000582,P00542,2024-09-04,2024-09-05,86,75+,Endocrinology,Type 2 diabetes,Blood test,Urgent,Rehabilitation,1,0
+E000358,P00580,2025-07-18,2025-07-24,52,45-59,Cardiology,COPD,Imaging,Emergency,Home,6,0
+E000998,P00235,2025-09-20,2025-09-24,24,18-29,Cardiology,Kidney disease,Blood test,Elective,Home,4,0
+E001088,P00644,2025-08-22,2025-09-02,56,45-59,Cardiology,Pneumonia,None recorded,Emergency,Home,11,1
+E000399,P00183,2025-09-09,2025-09-12,39,30-44,Cardiology,Pneumonia,None recorded,Elective,Home,3,0
+E000501,P00074,2024-07-12,2024-07-13,33,30-44,Cardiology,Kidney disease,Blood test,Elective,Home,1,0
+E001156,P00382,2024-09-25,2024-10-03,86,75+,Respiratory,COPD,None recorded,Elective,Home,8,0
+E001147,P00346,2024-08-26,2024-09-06,47,45-59,Cardiology,Type 2 diabetes,Blood test,Emergency,Rehabilitation,11,0
+E000510,P00154,2024-06-03,2024-06-06,32,30-44,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E001083,P00623,2024-08-24,2024-08-31,46,45-59,General Medicine,COPD,Imaging,Emergency,Home,7,0
+E000618,P00174,2024-07-03,2024-07-05,46,45-59,Respiratory,Type 2 diabetes,Surgical procedure,Elective,Home,2,0
+E000564,P00118,2025-03-15,2025-03-20,56,45-59,Endocrinology,Type 2 diabetes,Blood test,Elective,Home,5,0
+E000037,P00558,2024-01-04,2024-01-06,53,45-59,Endocrinology,Hypertension,None recorded,Urgent,Home,2,0
+E000679,P00341,2025-06-14,2025-06-16,31,30-44,General Medicine,Hypertension,Imaging,Elective,Home,2,0
+E000289,P00353,2024-03-22,2024-03-24,60,60-74,General Medicine,COPD,None recorded,Emergency,Home,2,0
+E000464,P00273,2025-02-08,2025-02-16,80,75+,Surgery,Type 2 diabetes,Imaging,Emergency,Rehabilitation,8,0
+E000929,P00272,2024-02-16,2024-02-19,80,75+,Respiratory,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000836,P00505,2025-09-09,2025-09-23,65,60-74,Respiratory,COPD,,Emergency,Home,14,0
+E001103,P00598,2025-02-20,2025-02-23,43,30-44,Cardiology,Heart failure,Blood test,Emergency,Home,3,0
+E000011,P00343,2025-03-31,2025-04-03,55,45-59,Cardiology,Pneumonia,Blood test,Emergency,Home,3,0
+E001069,P00217,2024-03-27,2024-03-31,90,75+,General Medicine,Type 2 diabetes,Blood test,Emergency,Rehabilitation,4,0
+E000561,P00349,2024-10-07,2024-10-11,48,45-59,General Medicine,COPD,Blood test,Emergency,,4,0
+E000026,P00419,2025-12-08,2025-12-09,27,18-29,General Medicine,Type 2 diabetes,Blood test,Elective,Rehabilitation,1,0
+E000114,P00299,2025-09-14,2025-09-20,27,18-29,General Medicine,Heart failure,Blood test,Emergency,Skilled nursing facility,6,1
+E000494,P00393,2024-10-15,2024-10-19,70,60-74,Endocrinology,Heart failure,None recorded,Elective,Home,4,0
+E001084,P00362,2025-07-28,2025-07-31,49,45-59,Endocrinology,Hypertension,Imaging,Emergency,Home,3,0
+E000629,P00329,2025-03-24,2025-04-01,60,60-74,Respiratory,Heart failure,Imaging,Elective,Home,8,0
+E000777,P00276,2025-11-11,2025-11-12,61,60-74,Respiratory,Pneumonia,Blood test,Emergency,Home,1,0
+E000969,P00599,2025-11-14,2025-11-15,49,45-59,Surgery,Pneumonia,Blood test,Elective,Home,1,0
+E000744,P00176,2024-01-22,2024-01-23,42,30-44,Respiratory,Heart failure,Respiratory therapy,Emergency,Home,1,0
+E000323,P00400,2024-05-19,2024-05-21,46,45-59,Endocrinology,COPD,None recorded,Emergency,Home,2,1
+E000041,P00108,2025-01-05,2025-01-09,63,60-74,Cardiology,Hypertension,None recorded,Elective,Home,4,0
+E000107,P00508,2024-07-04,2024-07-08,87,75+,Respiratory,Pneumonia,Blood test,Urgent,Home,4,0
+E000498,P00244,2024-04-19,2024-04-21,52,45-59,General Medicine,Kidney disease,Imaging,Elective,Home,2,0
+E001028,P00183,2025-11-12,2025-11-13,39,30-44,Endocrinology,Pneumonia,None recorded,Emergency,Other facility,1,0
+E000142,P00140,2024-04-09,2024-04-13,54,45-59,Respiratory,Heart failure,Blood test,Emergency,Home,4,0
+E000862,P00604,2025-02-14,2025-02-16,88,75+,Surgery,Heart failure,Blood test,Emergency,Home,2,0
+E000209,P00172,2024-01-02,2024-01-07,86,75+,General Medicine,Hypertension,Blood test,Emergency,Home,5,0
+E000565,P00578,2025-02-24,2025-03-01,83,75+,Cardiology,Heart failure,Blood test,Urgent,Home,5,0
+E000402,P00506,2025-06-23,2025-07-01,81,75+,Cardiology,Pneumonia,None recorded,Emergency,Home,8,0
+E000361,P00550,2024-07-31,2024-08-09,55,45-59,General Medicine,Heart failure,None recorded,Urgent,Home,9,0
+E001112,P00152,2024-02-19,2024-02-20,41,30-44,Cardiology,COPD,Respiratory therapy,Emergency,Home,1,0
+E000831,P00160,2025-02-09,2025-02-12,61,60-74,Respiratory,Kidney disease,Blood test,Elective,Rehabilitation,3,0
+E000813,P00445,2024-04-21,2024-04-23,51,45-59,Cardiology,Pneumonia,None recorded,Emergency,Home,2,0
+E000172,P00059,2024-09-07,2024-09-08,52,45-59,General Medicine,Hypertension,Imaging,Urgent,,1,0
+E000059,P00484,2025-01-29,2025-01-31,21,18-29,General Medicine,Heart failure,None recorded,Elective,,2,0
+E001062,P00447,2025-12-30,2026-01-06,80,75+,General Medicine,Hypertension,Imaging,Elective,Home,7,0
+E000454,P00017,2025-03-10,2025-03-13,63,60-74,Respiratory,Type 2 diabetes,Respiratory therapy,Urgent,Home,3,0
+E000782,P00415,2025-03-30,2025-04-05,32,30-44,Endocrinology,Pneumonia,None recorded,Elective,Home,6,0
+E000692,P00517,2024-06-28,2024-07-04,63,60-74,General Medicine,COPD,None recorded,Emergency,Home,6,1
+E000281,P00180,2024-04-20,2024-04-23,59,45-59,Endocrinology,Kidney disease,Cardiac procedure,Elective,Home,3,0
+E000568,P00163,2024-12-07,2024-12-12,66,60-74,Endocrinology,Pneumonia,Surgical procedure,Emergency,Home,5,0
+E000533,P00102,2025-05-25,2025-05-27,25,18-29,Cardiology,Heart failure,Imaging,Elective,Home,2,0
+E000622,P00311,2025-07-12,2025-07-14,22,18-29,General Medicine,Kidney disease,Surgical procedure,Emergency,Rehabilitation,2,0
+E001063,P00094,2024-01-24,2024-01-26,62,60-74,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,2,1
+E001109,P00612,2024-08-12,2024-08-22,54,45-59,Endocrinology,Pneumonia,Blood test,Emergency,Home,10,0
+E000431,P00055,2025-02-22,2025-02-26,78,75+,Surgery,Heart failure,Imaging,Urgent,Home,4,0
+E000162,P00432,2024-02-19,2024-02-27,76,75+,Cardiology,Type 2 diabetes,Blood test,Elective,Home,8,0
+E000896,P00398,2025-07-22,2025-07-29,59,45-59,General Medicine,COPD,,Urgent,Home,7,0
+E000184,P00453,2025-10-16,2025-10-18,26,18-29,Respiratory,Hypertension,Surgical procedure,Emergency,Home,2,0
+E000623,P00108,2024-08-08,2024-08-12,63,60-74,Surgery,Pneumonia,Blood test,Urgent,Home,4,0
+E000146,P00555,2025-12-29,2026-01-01,38,30-44,General Medicine,COPD,Blood test,Urgent,Home,3,0
+E000483,P00163,2024-01-26,2024-02-02,66,60-74,General Medicine,Type 2 diabetes,Blood test,Elective,Other facility,7,0
+E000482,P00540,2024-01-10,2024-01-11,30,30-44,Cardiology,Type 2 diabetes,Surgical procedure,Emergency,Home,1,0
+E000633,P00283,2025-03-05,2025-03-09,46,45-59,General Medicine,Pneumonia,Imaging,Emergency,Home,4,1
+E001194,P00457,2024-06-10,2024-06-15,59,45-59,General Medicine,COPD,None recorded,Emergency,Home,5,1
+E000909,P00242,2024-07-23,2024-07-30,54,45-59,General Medicine,Heart failure,Cardiac procedure,Emergency,Home,7,0
+E000285,P00287,2024-10-29,2024-11-13,35,30-44,General Medicine,Kidney disease,None recorded,Urgent,Home,15,0
+E000204,P00455,2024-08-23,2024-08-27,70,60-74,General Medicine,Heart failure,Cardiac procedure,Emergency,Home,4,0
+E000242,P00380,2025-01-09,2025-01-23,21,18-29,Surgery,Heart failure,None recorded,Emergency,Home,14,0
+E001175,P00006,2025-05-25,2025-06-01,78,75+,Respiratory,Type 2 diabetes,Respiratory therapy,Urgent,Home,7,0
+E000212,P00466,2025-02-13,2025-02-17,20,18-29,Surgery,Heart failure,Blood test,Elective,Home,4,0
+E000065,P00268,2024-06-23,2024-06-27,88,75+,General Medicine,Heart failure,Surgical procedure,Elective,Home,4,0
+E000847,P00102,2024-11-26,2024-11-30,25,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000887,P00035,2025-06-19,2025-06-24,50,45-59,Surgery,Heart failure,Imaging,Elective,Rehabilitation,5,0
+E001134,P00496,2025-08-23,2025-08-27,57,45-59,General Medicine,COPD,Imaging,Emergency,Home,4,0
+E000553,P00539,2025-04-03,2025-04-05,83,75+,General Medicine,Pneumonia,None recorded,Elective,Home,2,0
+E000327,P00154,2024-08-20,2024-08-23,32,30-44,Surgery,Type 2 diabetes,None recorded,Elective,Other facility,3,0
+E000827,P00443,2025-03-24,2025-03-28,73,60-74,Respiratory,Pneumonia,Blood test,Emergency,Rehabilitation,4,0
+E000207,P00497,2024-09-10,2024-09-11,66,60-74,General Medicine,Type 2 diabetes,Imaging,Elective,Other facility,1,0
+E000132,P00360,2025-06-07,2025-06-13,49,45-59,General Medicine,COPD,Blood test,Elective,Home,6,0
+E000135,P00517,2025-01-24,2025-01-27,63,60-74,General Medicine,Pneumonia,Cardiac procedure,Emergency,Home,3,0
+E001036,P00483,2025-07-31,2025-08-04,59,45-59,Endocrinology,Hypertension,None recorded,Elective,Home,4,0
+E000908,P00113,2024-04-11,2024-04-14,88,75+,Endocrinology,Pneumonia,Imaging,Emergency,Home,3,0
+E000237,P00432,2024-11-07,2024-11-15,76,75+,General Medicine,Hypertension,Blood test,Emergency,Home,8,0
+E000720,P00390,2025-01-21,2025-01-26,78,75+,Cardiology,Hypertension,Blood test,Emergency,Other facility,5,0
+E001188,P00390,2025-12-13,2025-12-16,78,75+,General Medicine,Kidney disease,Cardiac procedure,Urgent,Home,3,0
+E000499,P00603,2024-09-19,2024-09-26,85,75+,General Medicine,COPD,None recorded,Elective,Home,7,0
+E000145,P00646,2024-05-16,2024-05-17,82,75+,Respiratory,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,1,0
+E000479,P00432,2025-11-05,2025-11-06,76,75+,Endocrinology,COPD,Blood test,Urgent,Home,1,0
+E000053,P00237,2024-02-24,2024-03-03,42,30-44,Respiratory,,None recorded,Emergency,Skilled nursing facility,8,1
+E001098,P00491,2024-12-24,2024-12-30,28,18-29,General Medicine,Pneumonia,Respiratory therapy,Elective,Home,6,0
+E000112,P00508,2024-09-11,2024-09-12,87,75+,Cardiology,COPD,Blood test,Emergency,Home,1,0
+E000032,P00148,2025-06-19,2025-06-29,60,60-74,Surgery,,Surgical procedure,Emergency,Home,10,1
+E000488,P00346,2024-10-24,2024-10-27,47,45-59,General Medicine,Kidney disease,Cardiac procedure,Emergency,Home,3,0
+E000838,P00129,2024-01-30,2024-02-05,24,18-29,Cardiology,Hypertension,,Emergency,Home,6,0
+E000978,P00373,2024-12-16,2024-12-18,32,30-44,Surgery,Pneumonia,None recorded,Urgent,Skilled nursing facility,2,0
+E000076,P00310,2025-06-04,2025-06-06,81,75+,Surgery,Hypertension,Imaging,Emergency,Home,2,0
+E000763,P00617,2024-04-14,2024-04-20,56,45-59,Respiratory,COPD,Blood test,Emergency,Home,6,0
+E001199,P00522,2024-07-02,2024-07-08,74,60-74,Cardiology,Hypertension,Imaging,Emergency,Home,6,0
+E000101,P00542,2025-07-08,2025-07-10,86,75+,Respiratory,COPD,Surgical procedure,Emergency,Home,2,1
+E000867,P00533,2025-06-13,2025-06-16,29,18-29,Respiratory,Heart failure,None recorded,Elective,Home,3,1
+E000925,P00162,2025-06-28,2025-06-30,44,30-44,Endocrinology,Kidney disease,Cardiac procedure,Emergency,Home,2,0
+E001184,P00292,2024-10-13,2024-10-28,62,60-74,General Medicine,Pneumonia,Blood test,Emergency,Home,15,0
+E000934,P00423,2024-10-18,2024-10-21,27,18-29,General Medicine,Hypertension,None recorded,Urgent,Home,3,1
+E000439,P00053,2024-05-13,2024-05-19,24,18-29,General Medicine,COPD,Surgical procedure,Emergency,Home,6,0
+E000349,P00118,2024-12-26,2024-12-31,56,45-59,Surgery,COPD,Respiratory therapy,Emergency,Home,5,1
+E000712,P00340,2025-10-10,2025-10-14,43,30-44,General Medicine,Heart failure,Blood test,Urgent,Home,4,0
+E000450,P00187,2025-09-02,2025-09-04,44,30-44,General Medicine,COPD,Imaging,Emergency,Home,2,0
+E000873,P00074,2024-10-20,2024-10-23,33,30-44,General Medicine,Hypertension,Blood test,Urgent,Skilled nursing facility,3,0
+E000868,P00545,2025-10-24,2025-10-26,78,75+,Cardiology,Kidney disease,Blood test,Urgent,Home,2,0
+E000305,P00353,2025-03-12,2025-03-15,60,60-74,Cardiology,Heart failure,Blood test,Elective,Home,3,0
+E000103,P00524,2025-05-25,2025-05-28,57,45-59,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000595,P00209,2024-12-14,2024-12-19,56,45-59,General Medicine,Heart failure,None recorded,Emergency,Home,5,0
+E000737,P00475,2024-09-28,2024-10-03,45,45-59,Surgery,Kidney disease,Surgical procedure,Emergency,Home,5,0
+E000231,P00302,2024-12-09,2024-12-14,76,75+,Endocrinology,Heart failure,None recorded,Urgent,Home,5,0
+E001117,P00648,2024-03-04,2024-03-08,73,60-74,Respiratory,COPD,None recorded,Emergency,Rehabilitation,4,0
+E000557,P00479,2024-09-11,2024-09-14,81,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000814,P00185,2025-11-03,2025-11-07,43,30-44,Endocrinology,Type 2 diabetes,,Elective,Home,4,0
+E000979,P00229,2025-04-02,2025-04-05,63,60-74,Respiratory,COPD,Respiratory therapy,Urgent,Home,3,0
+E001022,P00047,2024-04-22,2024-04-29,74,60-74,Surgery,Type 2 diabetes,Imaging,Elective,Home,7,0
+E000317,P00475,2024-12-18,2024-12-20,45,45-59,Endocrinology,Hypertension,Respiratory therapy,Urgent,Rehabilitation,2,0
+E000724,P00078,2024-11-13,2024-11-22,30,30-44,Cardiology,Heart failure,Blood test,Emergency,Home,9,0
+E000710,P00303,2025-11-17,2025-11-22,34,30-44,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,5,0
+E001029,P00368,2024-07-30,2024-08-01,90,75+,Surgery,Kidney disease,Surgical procedure,Emergency,Home,2,0
+E001058,P00502,2025-04-21,2025-04-23,76,75+,General Medicine,Hypertension,Blood test,Urgent,Skilled nursing facility,2,0
+E000542,P00037,2025-06-26,2025-06-30,64,60-74,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E000313,P00078,2025-06-27,2025-07-01,30,30-44,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,4,0
+E000137,P00392,2025-04-10,2025-04-12,29,18-29,Endocrinology,Pneumonia,Imaging,Elective,Rehabilitation,2,0
+E000309,P00206,2025-09-22,2025-09-28,73,60-74,General Medicine,Type 2 diabetes,Cardiac procedure,Emergency,Home,6,0
+E000526,P00202,2025-07-25,2025-08-01,33,30-44,Surgery,Hypertension,Respiratory therapy,Urgent,Other facility,7,0
+E000946,P00078,2024-11-20,2024-11-23,30,30-44,Cardiology,Heart failure,Blood test,Urgent,Skilled nursing facility,3,1
+E000432,P00481,2025-10-17,2025-10-23,20,18-29,Endocrinology,Type 2 diabetes,Surgical procedure,Emergency,Rehabilitation,6,0
+E000643,P00556,2025-08-19,2025-08-21,90,75+,Cardiology,COPD,None recorded,Elective,Home,2,0
+E000661,P00115,2025-06-24,2025-06-28,25,18-29,General Medicine,COPD,Cardiac procedure,Elective,Home,4,1
+E000923,P00291,2025-03-01,2025-03-12,71,60-74,Cardiology,Heart failure,,Emergency,Home,11,1
+E000078,P00148,2025-07-18,2025-07-21,60,60-74,Endocrinology,Type 2 diabetes,Respiratory therapy,Emergency,Home,3,0
+E000417,P00631,2025-08-02,2025-08-07,71,60-74,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,5,0
+E000473,P00281,2024-07-14,2024-07-17,26,18-29,General Medicine,Type 2 diabetes,Cardiac procedure,Emergency,Home,3,0
+E000190,P00196,2025-10-25,2025-11-05,30,30-44,General Medicine,Pneumonia,Cardiac procedure,Emergency,Home,11,0
+E000084,P00542,2025-08-07,2025-08-09,86,75+,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,2,0
+E000701,P00339,2025-01-25,2025-01-30,53,45-59,General Medicine,Pneumonia,Imaging,Emergency,Home,5,0
+E001003,P00363,2024-01-29,2024-01-31,44,30-44,Surgery,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000771,P00424,2025-08-27,2025-08-29,89,75+,General Medicine,Kidney disease,Imaging,Elective,Home,2,0
+E000290,P00308,2025-01-05,2025-01-16,40,30-44,Respiratory,Type 2 diabetes,Imaging,Elective,Other facility,11,0
+E000563,P00321,2024-01-08,2024-01-13,63,60-74,Cardiology,Heart failure,None recorded,Emergency,Home,5,0
+E000320,P00500,2024-12-02,2024-12-05,32,30-44,General Medicine,COPD,Imaging,Urgent,Home,3,0
+E000496,P00269,2025-05-13,2025-05-23,23,18-29,Endocrinology,Type 2 diabetes,Blood test,Emergency,Home,10,0
+E001053,P00327,2024-06-26,2024-07-01,27,18-29,Respiratory,Type 2 diabetes,None recorded,Emergency,Other facility,5,0
+E001068,P00417,2025-06-15,2025-06-19,67,60-74,Endocrinology,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000656,P00347,2025-09-13,2025-09-16,34,30-44,Respiratory,Heart failure,Imaging,Urgent,Other facility,3,0
+E001064,P00459,2025-01-12,2025-01-16,70,60-74,Cardiology,Heart failure,Surgical procedure,Elective,Home,4,0
+E000119,P00160,2024-11-23,2024-11-27,61,60-74,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Rehabilitation,4,0
+E000844,P00024,2025-07-01,2025-07-03,78,75+,Cardiology,Kidney disease,None recorded,Elective,Home,2,0
+E000429,P00017,2024-10-10,2024-10-11,63,60-74,Surgery,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,1,0
+E000888,P00126,2025-04-28,2025-05-03,41,30-44,Cardiology,Pneumonia,Blood test,Emergency,,5,0
+E001044,P00242,2024-03-22,2024-03-23,54,45-59,Endocrinology,COPD,None recorded,Emergency,Skilled nursing facility,1,0
+E000778,P00078,2024-09-06,2024-09-12,30,30-44,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,6,0
+E001081,P00599,2025-07-11,2025-07-14,49,45-59,General Medicine,Type 2 diabetes,Blood test,Elective,Home,3,1
+E000713,P00474,2024-01-03,2024-01-10,33,30-44,General Medicine,Heart failure,Imaging,Emergency,Rehabilitation,7,0
+E000773,P00004,2025-05-12,2025-05-18,58,45-59,General Medicine,Kidney disease,Blood test,Urgent,Home,6,0
+E000086,P00456,2024-02-05,2024-02-09,23,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000940,P00331,2024-10-19,2024-10-23,88,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000856,P00553,2024-09-24,2024-09-29,86,75+,Respiratory,Kidney disease,Blood test,Emergency,Home,5,0
+E000879,P00357,2024-07-07,2024-07-11,82,75+,Surgery,Type 2 diabetes,Blood test,Emergency,Other facility,4,0
+E000892,P00462,2024-08-26,2024-09-01,85,75+,General Medicine,Heart failure,None recorded,Emergency,Home,6,0
+E000255,P00430,2025-02-21,2025-02-25,27,18-29,Cardiology,Hypertension,Respiratory therapy,Urgent,Other facility,4,0
+E000364,P00581,2025-11-01,2025-11-03,70,60-74,Respiratory,Pneumonia,Surgical procedure,Emergency,Home,2,0
+E000614,P00251,2024-12-27,2024-12-28,82,75+,Respiratory,Heart failure,None recorded,Urgent,Home,1,0
+E000594,P00637,2024-07-22,2024-07-26,76,75+,General Medicine,Type 2 diabetes,Cardiac procedure,Emergency,Home,4,0
+E000913,P00245,2025-10-29,2025-11-06,51,45-59,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,8,0
+E000355,P00631,2024-11-30,2024-12-09,71,60-74,Endocrinology,Type 2 diabetes,Imaging,Urgent,Home,9,0
+E000910,P00060,2024-07-25,2024-07-29,22,18-29,Endocrinology,Pneumonia,Blood test,Urgent,Home,4,0
+E000824,P00423,2025-03-13,2025-03-14,27,18-29,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Rehabilitation,1,0
+E001100,P00282,2025-10-13,2025-10-14,25,18-29,Endocrinology,COPD,Imaging,Emergency,Rehabilitation,1,0
+E000477,P00551,2024-04-19,2024-04-27,20,18-29,Cardiology,Hypertension,Cardiac procedure,Emergency,Home,8,0
+E000257,P00441,2025-12-19,2025-12-21,49,45-59,Respiratory,Type 2 diabetes,None recorded,Elective,Home,2,0
+E000965,P00617,2025-11-27,2025-12-01,56,45-59,Endocrinology,Heart failure,Surgical procedure,Elective,Home,4,0
+E001197,P00464,2025-11-22,2025-12-03,62,60-74,Respiratory,Kidney disease,Blood test,Emergency,Home,11,0
+E001025,P00535,2024-10-19,2024-10-20,76,75+,General Medicine,Type 2 diabetes,Imaging,Elective,Home,1,0
+E001174,P00116,2024-10-17,2024-10-20,77,75+,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,3,0
+E000161,P00648,2024-03-01,2024-03-03,73,60-74,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Skilled nursing facility,2,1
+E000126,P00368,2024-05-16,2024-05-19,90,75+,General Medicine,Heart failure,Surgical procedure,Emergency,,3,0
+E000681,P00471,2024-10-07,2024-10-10,38,30-44,Endocrinology,Kidney disease,Blood test,Elective,Home,3,0
+E000734,P00504,2025-11-26,2025-11-29,63,60-74,General Medicine,Type 2 diabetes,Imaging,Elective,Home,3,0
+E000150,P00038,2025-03-10,2025-03-17,67,60-74,Respiratory,Type 2 diabetes,None recorded,Emergency,Home,7,0
+E000858,P00038,2025-06-23,2025-06-30,67,60-74,General Medicine,Heart failure,Surgical procedure,Urgent,Home,7,0
+E000075,P00447,2025-07-10,2025-07-11,80,75+,General Medicine,Kidney disease,None recorded,Emergency,Rehabilitation,1,0
+E000532,P00108,2025-10-21,2025-10-28,63,60-74,Surgery,Type 2 diabetes,None recorded,Urgent,Home,7,0
+E001070,P00007,2025-12-13,2025-12-19,45,45-59,General Medicine,Pneumonia,Imaging,Emergency,Skilled nursing facility,6,0
+E000005,P00282,2025-04-20,2025-04-26,25,18-29,General Medicine,Hypertension,Respiratory therapy,Urgent,Home,6,0
+E000064,P00629,2025-08-23,2025-08-26,34,30-44,General Medicine,Hypertension,Surgical procedure,Urgent,Other facility,3,0
+E000696,P00165,2025-09-13,2025-09-23,50,45-59,Cardiology,Kidney disease,None recorded,Elective,Other facility,10,0
+E000044,P00231,2024-12-23,2024-12-26,86,75+,Cardiology,Kidney disease,Blood test,Emergency,Home,3,0
+E000458,P00413,2025-09-29,2025-10-03,32,30-44,Respiratory,Pneumonia,None recorded,Emergency,Home,4,0
+E000304,P00583,2024-08-23,2024-08-28,76,75+,Surgery,Pneumonia,Imaging,Urgent,Home,5,0
+E001118,P00382,2024-11-14,2024-11-18,86,75+,Endocrinology,,Blood test,Emergency,Home,4,0
+E000274,P00624,2024-05-31,2024-06-02,32,30-44,Endocrinology,Hypertension,None recorded,Elective,Home,2,1
+E000956,P00398,2024-12-23,2024-12-27,59,45-59,Cardiology,COPD,None recorded,Emergency,Home,4,0
+E001125,P00547,2025-06-29,2025-07-02,60,60-74,Respiratory,Heart failure,Surgical procedure,Emergency,Home,3,0
+E000871,P00297,2024-05-18,2024-05-26,27,18-29,Surgery,Hypertension,None recorded,Emergency,Other facility,8,0
+E000115,P00329,2025-10-20,2025-10-26,60,60-74,Respiratory,Type 2 diabetes,Respiratory therapy,Elective,Home,6,0
+E000693,P00606,2025-10-03,2025-10-10,45,45-59,Surgery,Kidney disease,Blood test,Emergency,Home,7,0
+E000276,P00314,2024-08-08,2024-08-21,55,45-59,Endocrinology,Kidney disease,None recorded,Elective,Home,13,0
+E000953,P00400,2025-09-17,2025-09-19,46,45-59,General Medicine,Pneumonia,Imaging,Emergency,Home,2,0
+E000148,P00153,2025-05-26,2025-06-01,33,30-44,Respiratory,Type 2 diabetes,Blood test,Urgent,Other facility,6,0
+E000596,P00522,2024-05-27,2024-06-05,74,60-74,General Medicine,Type 2 diabetes,None recorded,Elective,Rehabilitation,9,1
+E000253,P00123,2024-02-07,2024-02-08,33,30-44,Cardiology,COPD,Surgical procedure,Elective,Rehabilitation,1,0
+E000991,P00223,2024-09-21,2024-09-26,25,18-29,Respiratory,Kidney disease,Respiratory therapy,Elective,Home,5,0
+E000381,P00004,2024-08-04,2024-08-10,58,45-59,Cardiology,COPD,None recorded,Emergency,Home,6,0
+E000575,P00005,2025-07-15,2025-07-22,46,45-59,General Medicine,Type 2 diabetes,Cardiac procedure,Emergency,Skilled nursing facility,7,0
+E001123,P00175,2024-09-03,2024-09-09,74,60-74,Respiratory,COPD,Respiratory therapy,Urgent,Home,6,0
+E000529,P00595,2024-11-20,2024-11-24,74,60-74,Respiratory,Pneumonia,Imaging,Emergency,Home,4,0
+E000957,P00261,2024-11-19,2024-11-23,49,45-59,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000193,P00395,2025-12-19,2025-12-23,23,18-29,Endocrinology,Kidney disease,Respiratory therapy,Urgent,Home,4,0
+E000262,P00111,2024-08-16,2024-08-19,32,30-44,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000202,P00591,2024-06-25,2024-06-26,51,45-59,Cardiology,COPD,Blood test,Elective,Home,1,0
+E000300,P00015,2025-09-06,2025-09-15,45,45-59,Respiratory,Heart failure,None recorded,Urgent,Home,9,0
+E000200,P00626,2024-08-06,2024-08-09,63,60-74,Cardiology,Type 2 diabetes,Surgical procedure,Emergency,Home,3,0
+E000239,P00201,2024-08-20,2024-08-24,81,75+,General Medicine,Pneumonia,Blood test,Urgent,Skilled nursing facility,4,0
+E001183,P00450,2025-11-01,2025-11-10,44,30-44,General Medicine,Hypertension,Blood test,Urgent,Skilled nursing facility,9,0
+E000842,P00427,2025-10-13,2025-10-20,44,30-44,General Medicine,Kidney disease,Imaging,Elective,Home,7,0
+E001164,P00346,2024-03-27,2024-03-28,47,45-59,General Medicine,Hypertension,Surgical procedure,Emergency,Home,1,1
+E000585,P00263,2025-06-14,2025-06-15,28,18-29,General Medicine,Type 2 diabetes,Blood test,Elective,Home,1,0
+E000825,P00406,2024-02-23,2024-03-04,88,75+,General Medicine,Kidney disease,None recorded,Elective,Home,10,0
+E000647,P00300,2024-10-20,2024-10-22,26,18-29,General Medicine,Type 2 diabetes,Respiratory therapy,Urgent,Home,2,0
+E000006,P00559,2025-10-21,2025-10-30,55,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,9,0
+E001030,P00218,2025-12-16,2025-12-19,21,18-29,General Medicine,Pneumonia,None recorded,Emergency,Home,3,0
+E000224,P00132,2025-05-07,2025-05-10,76,75+,Cardiology,Hypertension,Blood test,Elective,Rehabilitation,3,1
+E001013,P00160,2025-03-17,2025-03-21,61,60-74,Cardiology,COPD,Imaging,Emergency,Home,4,0
+E000170,P00015,2025-04-08,2025-04-14,45,45-59,Endocrinology,Hypertension,None recorded,Elective,Skilled nursing facility,6,0
+E000855,P00188,2025-06-05,2025-06-12,41,30-44,Endocrinology,Type 2 diabetes,Imaging,Elective,Home,7,1
+E000453,P00325,2024-02-07,2024-02-10,75,75+,Surgery,Heart failure,None recorded,Elective,Home,3,0
+E000902,P00028,2025-05-02,2025-05-07,46,45-59,General Medicine,Hypertension,None recorded,Emergency,Home,5,0
+E000143,P00180,2024-03-28,2024-03-29,59,45-59,General Medicine,Pneumonia,Imaging,Urgent,Rehabilitation,1,1
+E000376,P00062,2024-08-20,2024-08-23,33,30-44,Endocrinology,Hypertension,Blood test,Emergency,Home,3,1
+E000080,P00436,2025-09-23,2025-09-26,57,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,3,0
+E000574,P00033,2024-10-14,2024-10-17,29,18-29,General Medicine,Pneumonia,Respiratory therapy,Urgent,Home,3,0
+E001057,P00293,2025-08-04,2025-08-05,84,75+,Respiratory,Kidney disease,None recorded,Emergency,Home,1,1
+E000187,P00109,2025-02-13,2025-02-14,47,45-59,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,1,0
+E000516,P00069,2025-10-03,2025-10-15,19,18-29,General Medicine,Hypertension,,Emergency,Home,12,0
+E000911,P00501,2024-07-24,2024-07-27,55,45-59,Surgery,Type 2 diabetes,Respiratory therapy,Urgent,Rehabilitation,3,0
+E000035,P00578,2025-04-10,2025-04-12,83,75+,Respiratory,Pneumonia,Blood test,Emergency,Home,2,0
+E000722,P00606,2025-01-26,2025-02-05,45,45-59,General Medicine,COPD,Surgical procedure,Urgent,Home,10,0
+E001035,P00044,2025-03-05,2025-03-18,33,30-44,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,13,0
+E000106,P00512,2025-05-05,2025-05-11,24,18-29,Cardiology,Type 2 diabetes,Blood test,Urgent,Home,6,0
+E000192,P00410,2025-01-21,2025-01-23,31,30-44,General Medicine,Type 2 diabetes,Imaging,Emergency,Rehabilitation,2,0
+E000967,P00392,2024-08-18,2024-08-22,29,18-29,Cardiology,Pneumonia,Blood test,Emergency,Home,4,0
+E000519,P00310,2024-10-28,2024-11-02,81,75+,Surgery,Heart failure,Surgical procedure,Emergency,Home,5,0
+E000592,P00587,2025-10-05,2025-10-11,72,60-74,General Medicine,COPD,Blood test,Urgent,Home,6,0
+E000232,P00557,2024-05-15,2024-05-20,25,18-29,General Medicine,Type 2 diabetes,Respiratory therapy,Elective,Skilled nursing facility,5,0
+E000124,P00307,2025-10-09,2025-10-22,69,60-74,Surgery,Kidney disease,Blood test,Emergency,Home,13,0
+E000973,P00311,2025-12-28,2025-12-30,22,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000628,P00239,2025-12-19,2025-12-22,29,18-29,Respiratory,Type 2 diabetes,,Elective,Home,3,0
+E001086,P00546,2025-08-30,2025-08-31,25,18-29,Surgery,Pneumonia,None recorded,Emergency,Rehabilitation,1,0
+E000314,P00183,2024-08-29,2024-08-31,39,30-44,Respiratory,Type 2 diabetes,Blood test,Urgent,Rehabilitation,2,0
+E000002,P00504,2024-12-14,2024-12-17,63,60-74,Cardiology,Kidney disease,Blood test,Emergency,Skilled nursing facility,3,0
+E000216,P00177,2025-07-26,2025-07-28,37,30-44,General Medicine,Hypertension,Blood test,Emergency,Skilled nursing facility,2,0
+E001071,P00439,2024-08-21,2024-08-23,33,30-44,Surgery,COPD,None recorded,Emergency,Skilled nursing facility,2,0
+E000609,P00629,2024-03-06,2024-03-07,34,30-44,Surgery,Type 2 diabetes,Blood test,Urgent,Home,1,0
+E000537,P00297,2025-01-02,2025-01-07,27,18-29,General Medicine,COPD,,Emergency,Skilled nursing facility,5,0
+E000223,P00458,2025-03-05,2025-03-06,74,60-74,Endocrinology,Kidney disease,Imaging,Elective,Home,1,0
+E001048,P00391,2024-05-08,2024-05-11,86,75+,Respiratory,COPD,Blood test,Emergency,Home,3,0
+E000042,P00493,2025-07-21,2025-07-26,44,30-44,General Medicine,Heart failure,Blood test,Emergency,Home,5,0
+E000546,P00035,2025-12-15,2025-12-22,50,45-59,Respiratory,Hypertension,Respiratory therapy,Elective,Home,7,0
+E001181,P00396,2024-05-11,2024-05-18,84,75+,Cardiology,COPD,Blood test,Emergency,Rehabilitation,7,0
+E000753,P00057,2024-02-22,2024-02-25,79,75+,General Medicine,Hypertension,None recorded,Emergency,Other facility,3,0
+E000697,P00470,2025-02-23,2025-03-01,33,30-44,Cardiology,Heart failure,Surgical procedure,Urgent,Other facility,6,0
+E000449,P00339,2025-12-13,2025-12-18,53,45-59,Cardiology,Hypertension,None recorded,Urgent,Other facility,5,0
+E000928,P00196,2025-04-01,2025-04-09,30,30-44,Endocrinology,Heart failure,Cardiac procedure,Urgent,Skilled nursing facility,8,0
+E000806,P00508,2024-04-04,2024-04-07,87,75+,Endocrinology,Type 2 diabetes,Blood test,Urgent,Home,3,0
+E000593,P00156,2024-09-07,2024-09-12,25,18-29,General Medicine,Type 2 diabetes,Blood test,Urgent,Home,5,0
+E000063,P00239,2024-11-20,2024-11-21,29,18-29,Endocrinology,Pneumonia,Blood test,Emergency,Home,1,0
+E000438,P00603,2025-03-29,2025-04-05,85,75+,Endocrinology,Type 2 diabetes,Imaging,Emergency,Skilled nursing facility,7,1
+E001186,P00200,2025-09-30,2025-10-04,46,45-59,Surgery,Pneumonia,None recorded,Emergency,Home,4,1
+E000201,P00239,2025-09-15,2025-09-21,29,18-29,General Medicine,Pneumonia,None recorded,Emergency,Other facility,6,0
+E000116,P00370,2024-08-06,2024-08-11,87,75+,Respiratory,Kidney disease,Blood test,Emergency,Home,5,0
+E000506,P00296,2025-09-19,2025-09-23,45,45-59,General Medicine,Heart failure,Blood test,Emergency,Home,4,0
+E000732,P00273,2024-12-17,2024-12-29,80,75+,Surgery,Hypertension,Respiratory therapy,Elective,Skilled nursing facility,12,0
+E000804,P00597,2024-11-30,2024-12-02,40,30-44,Endocrinology,Kidney disease,Imaging,Urgent,Skilled nursing facility,2,1
+E000924,P00095,2025-03-21,2025-03-23,48,45-59,Endocrinology,Type 2 diabetes,None recorded,Emergency,Rehabilitation,2,0
+E000642,P00596,2024-03-11,2024-03-13,64,60-74,Surgery,COPD,Cardiac procedure,Emergency,Home,2,0
+E000374,P00243,2025-08-16,2025-08-19,32,30-44,General Medicine,Type 2 diabetes,Blood test,Emergency,Rehabilitation,3,0
+E000010,P00062,2025-12-04,2025-12-05,33,30-44,General Medicine,Type 2 diabetes,Blood test,Urgent,Rehabilitation,1,0
+E001034,P00205,2024-04-10,2024-04-16,73,60-74,Cardiology,Hypertension,Blood test,Emergency,Home,6,0
+E001178,P00125,2024-04-10,2024-04-14,22,18-29,Cardiology,COPD,None recorded,Emergency,Home,4,0
+E000455,P00389,2024-04-24,2024-04-30,18,18-29,General Medicine,Pneumonia,None recorded,Elective,Rehabilitation,6,0
+E000747,P00346,2024-04-24,2024-04-26,47,45-59,Endocrinology,Heart failure,Blood test,Emergency,Home,2,0
+E000556,P00328,2024-08-20,2024-08-22,20,18-29,Cardiology,COPD,Blood test,Urgent,Home,2,0
+E000994,P00281,2024-06-08,2024-06-11,26,18-29,Endocrinology,Hypertension,Surgical procedure,Urgent,Home,3,0
+E000981,P00384,2025-05-25,2025-05-27,79,75+,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,2,0
+E000964,P00142,2025-10-28,2025-10-29,88,75+,General Medicine,Pneumonia,Blood test,Emergency,Home,1,0
+E001185,P00274,2024-05-14,2024-05-18,31,30-44,Endocrinology,Kidney disease,Respiratory therapy,Elective,Home,4,0
+E000807,P00355,2024-11-12,2024-11-16,90,75+,Cardiology,Type 2 diabetes,Surgical procedure,Emergency,Home,4,0
+E000495,P00189,2024-04-26,2024-04-30,88,75+,Cardiology,Heart failure,,Emergency,Other facility,4,0
+E000158,P00363,2024-04-08,2024-04-11,44,30-44,Respiratory,Pneumonia,Imaging,Urgent,Skilled nursing facility,3,0
+E000109,P00307,2024-10-29,2024-11-03,69,60-74,Endocrinology,Kidney disease,Blood test,Emergency,Skilled nursing facility,5,0
+E000962,P00266,2024-06-27,2024-06-30,57,45-59,Respiratory,Heart failure,None recorded,Emergency,Rehabilitation,3,0
+E000522,P00096,2025-06-25,2025-06-27,32,30-44,Cardiology,Heart failure,Blood test,Elective,Home,2,0
+E001050,P00078,2024-11-05,2024-11-11,30,30-44,Endocrinology,Kidney disease,Imaging,Emergency,Home,6,1
+E000337,P00627,2024-04-22,2024-04-23,26,18-29,Surgery,Heart failure,Respiratory therapy,Emergency,Skilled nursing facility,1,0
+E000520,P00387,2025-01-12,2025-01-22,38,30-44,Surgery,Type 2 diabetes,None recorded,Elective,Home,10,0
+E000185,P00323,2024-10-09,2024-10-17,26,18-29,General Medicine,Pneumonia,Blood test,Emergency,Home,8,0
+E001027,P00051,2025-10-02,2025-10-07,79,75+,Cardiology,Pneumonia,Cardiac procedure,Elective,Home,5,0
+E001130,P00422,2024-04-17,2024-04-22,78,75+,Cardiology,Pneumonia,Respiratory therapy,Urgent,Other facility,5,0
+E001033,P00476,2025-11-16,2025-11-19,55,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E001128,P00415,2024-05-02,2024-05-15,32,30-44,Respiratory,Heart failure,Imaging,Emergency,Home,13,0
+E000821,P00016,2024-08-09,2024-08-15,53,45-59,General Medicine,Pneumonia,None recorded,Emergency,Rehabilitation,6,0
+E000176,P00301,2025-12-01,2025-12-07,82,75+,Surgery,Heart failure,Blood test,Elective,Skilled nursing facility,6,0
+E000682,P00090,2024-07-12,2024-07-13,44,30-44,Endocrinology,Pneumonia,Respiratory therapy,Elective,Rehabilitation,1,0
+E000993,P00129,2024-07-28,2024-07-30,24,18-29,General Medicine,Kidney disease,Imaging,Emergency,Other facility,2,0
+E000206,P00173,2024-04-23,2024-04-28,71,60-74,Surgery,Pneumonia,Cardiac procedure,Elective,Home,5,0
+E001094,P00256,2025-06-30,2025-07-01,59,45-59,Respiratory,COPD,Imaging,Emergency,Home,1,0
+E000638,P00193,2024-08-10,2024-08-12,56,45-59,Cardiology,Pneumonia,Blood test,Elective,Home,2,0
+E000841,P00188,2024-07-30,2024-08-09,41,30-44,Endocrinology,Kidney disease,Blood test,Emergency,Home,10,0
+E000384,P00157,2024-10-29,2024-10-31,76,75+,Respiratory,Type 2 diabetes,Surgical procedure,Elective,Home,2,0
+E000213,P00513,2024-07-01,2024-07-04,52,45-59,General Medicine,Type 2 diabetes,Respiratory therapy,Elective,Home,3,0
+E000133,P00059,2024-11-06,2024-11-07,52,45-59,Respiratory,Heart failure,Surgical procedure,Emergency,Rehabilitation,1,0
+E000572,P00271,2024-10-02,2024-10-07,75,75+,General Medicine,Kidney disease,Blood test,Emergency,Skilled nursing facility,5,0
+E000882,P00554,2024-03-07,2024-03-14,49,45-59,Endocrinology,Type 2 diabetes,Blood test,Elective,Home,7,0
+E000423,P00499,2025-11-05,2025-11-13,76,75+,Surgery,COPD,Respiratory therapy,Elective,Home,8,0
+E000475,P00413,2025-06-07,2025-06-11,32,30-44,Endocrinology,Hypertension,Cardiac procedure,Emergency,Home,4,0
+E000955,P00511,2025-05-29,2025-05-30,26,18-29,Surgery,Type 2 diabetes,Blood test,Urgent,Rehabilitation,1,0
+E001015,P00338,2024-03-25,2024-03-27,31,30-44,Cardiology,Heart failure,None recorded,Emergency,Skilled nursing facility,2,0
+E000283,P00437,2024-07-30,2024-08-02,88,75+,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000743,P00413,2025-09-30,2025-10-10,32,30-44,Cardiology,Heart failure,Blood test,Elective,Skilled nursing facility,10,0
+E000597,P00377,2025-12-13,2025-12-20,56,45-59,General Medicine,Heart failure,Blood test,Emergency,Rehabilitation,7,0
+E001136,P00038,2025-01-28,2025-02-08,67,60-74,Respiratory,Pneumonia,None recorded,Urgent,Home,11,1
+E000819,P00433,2025-06-09,2025-06-11,39,30-44,General Medicine,Type 2 diabetes,Blood test,Urgent,Home,2,0
+E000599,P00409,2024-12-15,2024-12-25,75,75+,General Medicine,Kidney disease,Respiratory therapy,Urgent,Home,10,0
+E000282,P00317,2024-01-02,2024-01-03,49,45-59,General Medicine,Pneumonia,None recorded,Emergency,Skilled nursing facility,1,0
+E000345,P00589,2024-06-17,2024-06-18,83,75+,Respiratory,Heart failure,Cardiac procedure,Emergency,Skilled nursing facility,1,0
+E000530,P00599,2024-03-17,2024-03-21,49,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000933,P00168,2025-01-14,2025-01-23,64,60-74,General Medicine,Heart failure,Imaging,Elective,Skilled nursing facility,9,0
+E000653,P00132,2024-11-27,2024-11-28,76,75+,Respiratory,Hypertension,None recorded,Emergency,Home,1,0
+E000105,P00518,2025-03-21,2025-03-27,87,75+,Cardiology,COPD,Respiratory therapy,Emergency,Home,6,0
+E001126,P00549,2025-08-23,2025-08-29,56,45-59,Surgery,Heart failure,None recorded,Urgent,Home,6,0
+E001011,P00175,2025-05-25,2025-05-30,74,60-74,Endocrinology,Hypertension,None recorded,Emergency,Skilled nursing facility,5,0
+E000222,P00297,2025-12-27,2025-12-30,27,18-29,Respiratory,Heart failure,None recorded,Elective,Home,3,0
+E000544,P00114,2024-01-17,2024-01-22,73,60-74,General Medicine,Hypertension,Surgical procedure,Elective,Home,5,0
+E000646,P00214,2025-03-26,2025-04-02,61,60-74,Cardiology,Hypertension,,Urgent,Rehabilitation,7,0
+E000023,P00119,2025-12-02,2025-12-10,28,18-29,Respiratory,Type 2 diabetes,None recorded,Emergency,Rehabilitation,8,0
+E000550,P00443,2025-06-09,2025-06-18,73,60-74,Cardiology,COPD,Blood test,Emergency,Home,9,0
+E000500,P00277,2025-12-02,2025-12-07,88,75+,Cardiology,Type 2 diabetes,Imaging,Emergency,Home,5,0
+E000531,P00390,2025-07-22,2025-07-30,78,75+,Cardiology,Kidney disease,Blood test,Emergency,Home,8,0
+E000380,P00171,2025-03-14,2025-03-16,76,75+,Endocrinology,COPD,None recorded,Urgent,Home,2,0
+E001067,P00602,2025-05-13,2025-05-14,67,60-74,Surgery,Heart failure,Respiratory therapy,Emergency,Home,1,0
+E000943,P00594,2025-12-03,2025-12-07,80,75+,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E000244,P00423,2024-11-12,2024-11-13,27,18-29,General Medicine,Pneumonia,Blood test,Urgent,Home,1,0
+E001061,P00501,2024-01-18,2024-01-21,55,45-59,Cardiology,Hypertension,Blood test,Elective,Rehabilitation,3,0
+E000383,P00617,2025-01-11,2025-01-14,56,45-59,General Medicine,COPD,Blood test,Emergency,Home,3,1
+E000102,P00130,2024-10-19,2024-10-29,60,60-74,Cardiology,Pneumonia,Imaging,Emergency,Home,10,0
+E000673,P00414,2025-03-16,2025-03-19,88,75+,Cardiology,Type 2 diabetes,None recorded,Urgent,Home,3,0
+E000876,P00328,2024-10-24,2024-10-26,20,18-29,Endocrinology,Heart failure,Blood test,Emergency,Home,2,0
+E000518,P00044,2024-10-03,2024-10-05,33,30-44,Endocrinology,Hypertension,Respiratory therapy,Elective,Rehabilitation,2,0
+E000728,P00058,2024-04-01,2024-04-04,86,75+,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000277,P00304,2024-12-24,2024-12-31,79,75+,Endocrinology,Pneumonia,Cardiac procedure,Emergency,Home,7,0
+E000830,P00019,2024-09-07,2024-09-17,39,30-44,Cardiology,Heart failure,Surgical procedure,Emergency,Rehabilitation,10,0
+E000676,P00472,2024-03-29,2024-04-06,89,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Rehabilitation,8,0
+E000252,P00322,2024-01-30,2024-02-08,66,60-74,Endocrinology,COPD,Imaging,Emergency,Home,9,0
+E000552,P00256,2025-10-09,2025-10-17,59,45-59,Surgery,Pneumonia,Blood test,Emergency,Home,8,0
+E001173,P00255,2024-02-14,2024-02-17,80,75+,General Medicine,Heart failure,Imaging,Elective,Home,3,0
+E001072,P00136,2024-08-20,2024-08-22,89,75+,General Medicine,COPD,None recorded,Elective,Home,2,0
+E000178,P00105,2025-07-02,2025-07-10,21,18-29,Cardiology,Type 2 diabetes,Imaging,Elective,Home,8,0
+E000651,P00319,2024-02-29,2024-03-04,60,60-74,Endocrinology,Heart failure,None recorded,Emergency,Home,4,1
+E000422,P00452,2024-01-03,2024-01-09,46,45-59,General Medicine,COPD,Cardiac procedure,Urgent,Home,6,0
+E000405,P00325,2024-03-31,2024-04-06,75,75+,Cardiology,Hypertension,Surgical procedure,Urgent,Home,6,0
+E001060,P00203,2025-12-25,2025-12-28,74,60-74,General Medicine,Pneumonia,Blood test,Emergency,Home,3,0
+E000060,P00444,2025-08-08,2025-08-12,53,45-59,Endocrinology,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000659,P00048,2025-01-17,2025-01-21,65,60-74,General Medicine,Pneumonia,Surgical procedure,Urgent,Rehabilitation,4,0
+E001096,P00053,2025-08-08,2025-08-16,24,18-29,Respiratory,Kidney disease,Surgical procedure,Emergency,Home,8,0
+E000939,P00301,2025-01-28,2025-01-31,82,75+,Endocrinology,COPD,Cardiac procedure,Emergency,Home,3,0
+E000127,P00052,2025-05-10,2025-05-11,82,75+,General Medicine,Heart failure,Imaging,Emergency,Home,1,0
+E000687,P00265,2025-04-20,2025-04-21,33,30-44,Cardiology,Type 2 diabetes,Blood test,Emergency,Other facility,1,0
+E000571,P00617,2024-09-03,2024-09-05,56,45-59,Cardiology,Hypertension,Blood test,Emergency,Home,2,0
+E000366,P00338,2024-11-27,2024-11-29,31,30-44,General Medicine,Hypertension,None recorded,Emergency,Home,2,0
+E001082,P00643,2024-09-14,2024-09-20,41,30-44,Endocrinology,COPD,Cardiac procedure,Emergency,Other facility,6,0
+E000740,P00584,2024-05-31,2024-06-06,78,75+,Endocrinology,Kidney disease,Imaging,Elective,Home,6,0
+E000343,P00405,2024-03-05,2024-03-10,30,30-44,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Home,5,0
+E000634,P00247,2024-02-22,2024-02-26,59,45-59,Cardiology,COPD,,Emergency,Home,4,1
+E000944,P00309,2025-03-21,2025-03-27,71,60-74,Endocrinology,Heart failure,Blood test,Emergency,Skilled nursing facility,6,0
+E001037,P00587,2024-07-01,2024-07-02,72,60-74,Endocrinology,Heart failure,None recorded,Elective,Rehabilitation,1,0
+E001141,P00573,2024-11-05,2024-11-08,61,60-74,Respiratory,Heart failure,Blood test,Urgent,Home,3,0
+E000442,P00196,2024-02-06,2024-02-11,30,30-44,Respiratory,Type 2 diabetes,Blood test,Elective,Rehabilitation,5,0
+E000058,P00101,2025-02-09,2025-02-14,69,60-74,Cardiology,COPD,Imaging,Emergency,Home,5,0
+E000907,P00268,2025-07-13,2025-07-18,88,75+,Endocrinology,Hypertension,Blood test,Emergency,Home,5,0
+E000021,P00326,2025-04-19,2025-04-23,63,60-74,Cardiology,Kidney disease,Respiratory therapy,Urgent,Home,4,0
+E000465,P00005,2025-01-18,2025-01-20,46,45-59,General Medicine,Heart failure,Imaging,Elective,Skilled nursing facility,2,0
+E000509,P00175,2024-06-26,2024-06-30,74,60-74,Cardiology,Type 2 diabetes,Blood test,Emergency,Other facility,4,0
+E000034,P00361,2025-07-01,2025-07-04,27,18-29,Endocrinology,COPD,None recorded,Emergency,Home,3,0
+E001160,P00222,2024-06-01,2024-06-07,46,45-59,General Medicine,Hypertension,Surgical procedure,Urgent,Home,6,0
+E001056,P00648,2025-05-15,2025-05-16,73,60-74,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Home,1,0
+E000835,P00556,2025-12-20,2025-12-25,90,75+,General Medicine,Pneumonia,Surgical procedure,Emergency,Home,5,0
+E000396,P00569,2024-04-30,2024-05-08,70,60-74,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,8,0
+E000951,P00061,2024-08-27,2024-08-28,42,30-44,General Medicine,Hypertension,Imaging,Emergency,Rehabilitation,1,0
+E000335,P00300,2025-08-19,2025-08-27,26,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,8,0
+E001000,P00334,2024-05-02,2024-05-03,33,30-44,Surgery,Kidney disease,Blood test,Emergency,Rehabilitation,1,0
+E001026,P00037,2025-03-28,2025-03-29,64,60-74,Endocrinology,Type 2 diabetes,,Urgent,Home,1,0
+E001047,P00156,2025-02-24,2025-02-26,25,18-29,Endocrinology,Hypertension,None recorded,Emergency,Skilled nursing facility,2,0
+E000492,P00565,2025-10-11,2025-10-26,71,60-74,General Medicine,Heart failure,Blood test,Emergency,Home,15,0
+E000072,P00124,2024-03-20,2024-03-23,47,45-59,General Medicine,COPD,None recorded,Emergency,Rehabilitation,3,0
+E000411,P00114,2025-07-20,2025-07-22,73,60-74,General Medicine,Kidney disease,,Elective,Other facility,2,0
+E000386,P00080,2024-08-19,2024-08-26,27,18-29,General Medicine,Heart failure,Blood test,Emergency,Home,7,0
+E001143,P00606,2025-02-02,2025-02-08,45,45-59,General Medicine,Type 2 diabetes,Blood test,Urgent,Home,6,0
+E000799,P00206,2024-07-23,2024-07-26,73,60-74,General Medicine,Heart failure,Imaging,Emergency,Skilled nursing facility,3,0
+E001166,P00069,2024-03-03,2024-03-11,19,18-29,Surgery,Type 2 diabetes,Blood test,Elective,Skilled nursing facility,8,0
+E000641,P00437,2024-11-06,2024-11-10,88,75+,General Medicine,Heart failure,Imaging,Emergency,Home,4,0
+E000426,P00130,2025-12-25,2025-12-30,60,60-74,Surgery,Type 2 diabetes,None recorded,Emergency,Home,5,0
+E000751,P00625,2025-10-30,2025-11-09,45,45-59,General Medicine,Heart failure,None recorded,Emergency,Home,10,0
+E000707,P00006,2024-08-04,2024-08-06,78,75+,Endocrinology,Pneumonia,Blood test,Emergency,Home,2,0
+E000440,P00259,2024-07-18,2024-07-20,67,60-74,Respiratory,Pneumonia,Cardiac procedure,Urgent,Home,2,0
+E001002,P00479,2024-01-06,2024-01-09,81,75+,Surgery,Hypertension,None recorded,Emergency,Other facility,3,0
+E001095,P00214,2025-06-05,2025-06-08,61,60-74,Surgery,Kidney disease,Blood test,Emergency,Home,3,0
+E000591,P00521,2025-03-02,2025-03-05,41,30-44,Surgery,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,3,0
+E000144,P00266,2025-02-23,2025-02-26,57,45-59,General Medicine,Hypertension,Surgical procedure,Urgent,Other facility,3,0
+E000448,P00622,2025-04-29,2025-05-03,27,18-29,Respiratory,COPD,Blood test,Emergency,Home,4,0
+E000783,P00080,2024-02-09,2024-02-12,27,18-29,Cardiology,Kidney disease,Blood test,Elective,Home,3,0
+E000756,P00285,2024-10-19,2024-10-20,54,45-59,Cardiology,Heart failure,Surgical procedure,Emergency,Rehabilitation,1,0
+E000264,P00602,2024-02-07,2024-02-13,67,60-74,Respiratory,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,6,0
+E000612,P00301,2025-04-21,2025-04-23,82,75+,General Medicine,Pneumonia,Imaging,Elective,Skilled nursing facility,2,0
+E001187,P00093,2025-11-26,2025-11-27,85,75+,General Medicine,Pneumonia,Imaging,Urgent,Home,1,0
+E000999,P00626,2025-02-20,2025-02-23,63,60-74,Endocrinology,Heart failure,Respiratory therapy,Emergency,Skilled nursing facility,3,0
+E000668,P00560,2025-07-08,2025-07-17,52,45-59,Respiratory,Hypertension,Imaging,Emergency,Skilled nursing facility,9,0
+E000055,P00324,2025-04-19,2025-04-23,45,45-59,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000691,P00648,2024-05-15,2024-05-20,73,60-74,General Medicine,Type 2 diabetes,Blood test,Elective,Other facility,5,0
+E001190,P00005,2025-09-29,2025-10-07,46,45-59,Respiratory,Heart failure,None recorded,Elective,Home,8,1
+E000284,P00319,2024-03-22,2024-03-26,60,60-74,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E000906,P00462,2024-07-19,2024-07-22,85,75+,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000952,P00199,2024-08-23,2024-08-30,88,75+,General Medicine,Heart failure,None recorded,Elective,Home,7,0
+E000573,P00184,2024-09-21,2024-09-26,66,60-74,Cardiology,Pneumonia,Blood test,Urgent,Home,5,0
+E000915,P00385,2025-06-25,2025-06-28,84,75+,Respiratory,Pneumonia,None recorded,Emergency,Skilled nursing facility,3,0
+E000008,P00454,2025-06-10,2025-06-15,24,18-29,Endocrinology,Pneumonia,Blood test,Emergency,Home,5,0
+E000735,P00136,2024-04-17,2024-04-18,89,75+,Cardiology,Kidney disease,None recorded,Emergency,Home,1,0
+E000062,P00485,2025-11-06,2025-11-08,43,30-44,Cardiology,COPD,None recorded,Emergency,Home,2,0
+E000043,P00456,2025-12-04,2025-12-05,23,18-29,General Medicine,COPD,None recorded,Elective,Home,1,0
+E000265,P00644,2025-09-13,2025-09-19,56,45-59,General Medicine,Pneumonia,,Urgent,Home,6,0
+E000014,P00495,2025-09-24,2025-09-27,37,30-44,Respiratory,COPD,,Emergency,Home,3,0
+E000792,P00296,2024-11-15,2024-11-18,45,45-59,General Medicine,Pneumonia,Blood test,Elective,Home,3,0
+E000191,P00445,2024-08-11,2024-08-21,51,45-59,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,10,0
+E000601,P00401,2024-02-11,2024-02-15,75,75+,Cardiology,Kidney disease,Imaging,Urgent,Home,4,0
+E001007,P00553,2024-04-08,2024-04-11,86,75+,Endocrinology,Hypertension,Imaging,Elective,Skilled nursing facility,3,0
+E000949,P00617,2025-09-10,2025-09-13,56,45-59,Cardiology,Heart failure,Imaging,Emergency,Home,3,0
+E000758,P00250,2025-01-23,2025-01-24,42,30-44,General Medicine,Kidney disease,Cardiac procedure,Elective,Rehabilitation,1,0
+E000916,P00299,2024-05-27,2024-06-06,27,18-29,Surgery,Type 2 diabetes,Respiratory therapy,Emergency,Home,10,0
+E000484,P00518,2025-08-04,2025-08-06,87,75+,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Home,2,0
+E000251,P00117,2024-08-02,2024-08-08,68,60-74,Endocrinology,Kidney disease,Imaging,Elective,Home,6,0
+E001127,P00556,2024-09-06,2024-09-16,90,75+,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,10,0
+E000168,P00109,2024-11-26,2024-11-28,47,45-59,General Medicine,Pneumonia,Respiratory therapy,Urgent,Skilled nursing facility,2,0
+E000069,P00050,2025-11-26,2025-11-28,30,30-44,Cardiology,Hypertension,Blood test,Elective,Home,2,0
+E000436,P00081,2025-01-26,2025-01-27,65,60-74,Endocrinology,Hypertension,None recorded,Urgent,Home,1,0
+E001091,P00327,2024-10-15,2024-10-17,27,18-29,Cardiology,,Blood test,Emergency,Rehabilitation,2,0
+E000468,P00388,2025-05-09,2025-05-12,22,18-29,General Medicine,Pneumonia,Blood test,Elective,Home,3,0
+E000406,P00326,2025-10-11,2025-10-13,63,60-74,Endocrinology,Heart failure,None recorded,Emergency,Rehabilitation,2,0
+E000365,P00076,2025-02-10,2025-02-20,48,45-59,Cardiology,Hypertension,Imaging,Elective,Home,10,0
+E000730,P00428,2025-11-26,2025-11-29,86,75+,Surgery,Hypertension,Blood test,Emergency,Home,3,0
+E000139,P00226,2025-07-19,2025-07-28,60,60-74,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,9,0
+E000654,P00523,2024-04-27,2024-04-28,27,18-29,General Medicine,Pneumonia,Blood test,Elective,Rehabilitation,1,0
+E000800,P00288,2024-07-24,2024-08-01,59,45-59,General Medicine,Pneumonia,None recorded,Elective,Home,8,0
+E000377,P00479,2025-02-04,2025-02-13,81,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,9,1
+E000004,P00286,2025-07-09,2025-07-18,53,45-59,General Medicine,Heart failure,None recorded,Urgent,Home,9,1
+E000625,P00393,2025-07-18,2025-07-22,70,60-74,General Medicine,Heart failure,Blood test,Urgent,Skilled nursing facility,4,0
+E000971,P00195,2024-01-16,2024-01-24,40,30-44,Endocrinology,Heart failure,Blood test,Emergency,Other facility,8,1
+E000066,P00212,2024-01-27,2024-02-01,85,75+,General Medicine,Kidney disease,Surgical procedure,Elective,Home,5,0
+E000901,P00003,2025-10-28,2025-10-31,72,60-74,Respiratory,Pneumonia,Blood test,Urgent,Home,3,0
+E001105,P00200,2025-10-30,2025-11-02,46,45-59,General Medicine,COPD,None recorded,Emergency,Skilled nursing facility,3,0
+E000081,P00612,2025-06-24,2025-06-26,54,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Rehabilitation,2,0
+E000972,P00272,2025-06-27,2025-07-03,80,75+,Endocrinology,Heart failure,None recorded,Emergency,Home,6,0
+E000986,P00425,2024-07-30,2024-08-03,63,60-74,Cardiology,Kidney disease,None recorded,Emergency,Home,4,0
+E000341,P00413,2024-12-13,2024-12-17,32,30-44,Respiratory,Heart failure,Blood test,Urgent,Home,4,0
+E000306,P00092,2024-06-26,2024-06-27,37,30-44,Cardiology,Kidney disease,Surgical procedure,Emergency,Home,1,0
+E001168,P00260,2024-05-08,2024-05-15,29,18-29,Respiratory,Pneumonia,Blood test,Urgent,Rehabilitation,7,0
+E000310,P00071,2025-05-13,2025-05-23,83,75+,General Medicine,Hypertension,None recorded,Elective,Rehabilitation,10,1
+E000210,P00507,2024-07-25,2024-07-29,63,60-74,Respiratory,COPD,Blood test,Emergency,Home,4,0
+E000205,P00298,2024-05-09,2024-05-12,48,45-59,Cardiology,COPD,Respiratory therapy,Emergency,Home,3,0
+E000007,P00056,2025-01-11,2025-01-12,52,45-59,General Medicine,Heart failure,Imaging,Emergency,Other facility,1,0
+E000853,P00627,2024-09-20,2024-10-03,26,18-29,Endocrinology,Type 2 diabetes,None recorded,Emergency,Other facility,13,0
+E000408,P00094,2025-03-09,2025-03-23,62,60-74,Respiratory,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,14,0
+E000723,P00550,2025-08-25,2025-08-30,55,45-59,Endocrinology,Kidney disease,None recorded,Emergency,Home,5,0
+E000388,P00541,2024-02-27,2024-02-28,70,60-74,Surgery,COPD,Blood test,Emergency,Home,1,0
+E000009,P00131,2024-07-26,2024-07-30,84,75+,Endocrinology,Heart failure,None recorded,Emergency,Home,4,0
+E000036,P00042,2024-09-09,2024-09-14,18,18-29,Surgery,COPD,Blood test,Urgent,Home,5,0
+E000538,P00076,2024-03-13,2024-03-18,48,45-59,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,5,0
+E000919,P00166,2025-02-02,2025-02-09,49,45-59,Endocrinology,Type 2 diabetes,Blood test,Urgent,Rehabilitation,7,0
+E000936,P00612,2025-05-15,2025-05-17,54,45-59,Respiratory,Type 2 diabetes,Blood test,Elective,Skilled nursing facility,2,0
+E000152,P00183,2024-10-13,2024-10-22,39,30-44,Respiratory,Type 2 diabetes,Imaging,Elective,Rehabilitation,9,0
+E001024,P00548,2024-11-04,2024-11-05,54,45-59,General Medicine,Heart failure,Imaging,Urgent,Home,1,1
+E000140,P00284,2024-10-24,2024-10-27,77,75+,Surgery,Heart failure,None recorded,Emergency,Home,3,0
+E000113,P00362,2025-07-23,2025-07-28,49,45-59,Surgery,Type 2 diabetes,Respiratory therapy,Emergency,Home,5,1
+E000645,P00501,2025-06-26,2025-07-01,55,45-59,Cardiology,Heart failure,Imaging,Elective,Home,5,0
+E000155,P00283,2024-06-09,2024-06-10,46,45-59,Endocrinology,Type 2 diabetes,Blood test,Elective,Home,1,1
+E000481,P00188,2025-11-19,2025-11-22,41,30-44,Surgery,Heart failure,Imaging,Elective,Rehabilitation,3,0
+E000852,P00521,2024-08-08,2024-08-13,41,30-44,Respiratory,Kidney disease,Blood test,Elective,Home,5,0
+E000823,P00089,2025-04-25,2025-04-29,56,45-59,Respiratory,Hypertension,Imaging,Elective,Rehabilitation,4,0
+E000369,P00015,2025-10-25,2025-10-31,45,45-59,General Medicine,Hypertension,Imaging,Emergency,Rehabilitation,6,0
+E000219,P00291,2025-09-20,2025-09-23,71,60-74,Surgery,Type 2 diabetes,Blood test,Elective,Home,3,0
+E000536,P00100,2025-08-05,2025-08-13,85,75+,Surgery,Type 2 diabetes,Blood test,Emergency,Home,8,1
+E000061,P00600,2024-07-13,2024-07-16,66,60-74,Surgery,COPD,None recorded,Urgent,Skilled nursing facility,3,0
+E000118,P00091,2025-03-06,2025-03-10,42,30-44,Cardiology,Heart failure,None recorded,Emergency,Rehabilitation,4,0
+E000558,P00569,2025-03-20,2025-03-21,70,60-74,Endocrinology,Type 2 diabetes,Cardiac procedure,Emergency,Home,1,0
+E000462,P00092,2025-03-21,2025-03-26,37,30-44,General Medicine,COPD,Blood test,Elective,Home,5,0
+E000883,P00292,2024-08-25,2024-08-26,62,60-74,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,1,0
+E001087,P00522,2025-10-23,2025-10-24,74,60-74,Respiratory,Type 2 diabetes,Blood test,Elective,Rehabilitation,1,0
+E000698,P00384,2025-09-30,2025-10-04,79,75+,Cardiology,COPD,Imaging,Elective,Home,4,0
+E000621,P00282,2024-08-16,2024-08-22,25,18-29,Surgery,COPD,Blood test,Emergency,Rehabilitation,6,0
+E000387,P00044,2025-08-23,2025-08-25,33,30-44,General Medicine,Type 2 diabetes,Cardiac procedure,Emergency,Skilled nursing facility,2,0
+E000885,P00529,2024-04-05,2024-04-07,31,30-44,Surgery,Type 2 diabetes,Imaging,Urgent,Home,2,0
+E000180,P00326,2025-01-29,2025-02-01,63,60-74,Cardiology,Heart failure,Respiratory therapy,Emergency,Rehabilitation,3,0
+E000635,P00119,2024-10-26,2024-10-30,28,18-29,General Medicine,COPD,Imaging,Emergency,Skilled nursing facility,4,0
+E000703,P00110,2025-06-09,2025-06-13,26,18-29,General Medicine,Hypertension,Blood test,Emergency,Home,4,0
+E000990,P00512,2025-03-03,2025-03-05,24,18-29,General Medicine,Kidney disease,Blood test,Emergency,Home,2,0
+E001020,P00076,2024-05-20,2024-05-22,48,45-59,Endocrinology,Type 2 diabetes,,Elective,Home,2,0
+E000649,P00625,2025-01-15,2025-01-19,45,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Other facility,4,0
+E000900,P00401,2024-06-29,2024-07-04,75,75+,Surgery,COPD,Blood test,Urgent,Home,5,0
+E000918,P00510,2025-01-30,2025-02-01,43,30-44,General Medicine,Kidney disease,Blood test,Elective,Home,2,0
+E000975,P00097,2024-06-19,2024-06-23,76,75+,Cardiology,Heart failure,Cardiac procedure,Emergency,Home,4,0
+E000328,P00025,2024-04-10,2024-04-13,43,30-44,Cardiology,COPD,None recorded,Elective,Home,3,0
+E000243,P00062,2025-11-13,2025-11-19,33,30-44,General Medicine,Heart failure,Blood test,Elective,Home,6,0
+E000015,P00467,2024-02-24,2024-03-04,41,30-44,Cardiology,Pneumonia,None recorded,Urgent,Home,9,0
+E001031,P00317,2025-04-06,2025-04-14,49,45-59,Endocrinology,Heart failure,None recorded,Emergency,Home,8,0
+E000331,P00356,2024-03-06,2024-03-07,81,75+,Surgery,Pneumonia,None recorded,Emergency,Home,1,0
+E000545,P00541,2024-06-02,2024-06-08,70,60-74,Cardiology,Type 2 diabetes,None recorded,Urgent,Home,6,0
+E000797,P00630,2025-02-07,2025-02-17,83,75+,General Medicine,Kidney disease,Blood test,Emergency,Home,10,0
+E000954,P00279,2025-02-01,2025-02-05,60,60-74,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,4,0
+E001191,P00271,2024-11-27,2024-12-02,75,75+,General Medicine,Heart failure,,Emergency,Home,5,0
+E001167,P00015,2024-09-03,2024-09-08,45,45-59,Cardiology,COPD,Cardiac procedure,Urgent,Other facility,5,0
+E000308,P00361,2024-12-16,2024-12-18,27,18-29,Cardiology,Type 2 diabetes,Cardiac procedure,Elective,Skilled nursing facility,2,0
+E000288,P00372,2024-01-01,2024-01-02,20,18-29,Respiratory,,Blood test,Emergency,Home,1,0
+E000130,P00413,2024-09-06,2024-09-07,32,30-44,Surgery,Kidney disease,Respiratory therapy,Elective,Home,1,0
+E000038,P00538,2024-03-31,2024-04-01,70,60-74,Surgery,Type 2 diabetes,Imaging,Emergency,Home,1,0
+E000749,P00204,2024-01-02,2024-01-10,59,45-59,Respiratory,Heart failure,Blood test,Emergency,Home,8,0
+E001041,P00460,2024-06-12,2024-06-15,50,45-59,Cardiology,Kidney disease,None recorded,Elective,Home,3,0
+E000427,P00562,2025-02-25,2025-03-03,48,45-59,General Medicine,Pneumonia,None recorded,Emergency,Home,6,0
+E000403,P00209,2025-08-25,2025-08-27,56,45-59,Endocrinology,Type 2 diabetes,Cardiac procedure,Emergency,Home,2,1
+E000942,P00263,2025-09-30,2025-10-06,28,18-29,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,6,0
+E000976,P00147,2025-07-10,2025-07-13,76,75+,General Medicine,Hypertension,Blood test,Elective,Home,3,0
+E000920,P00414,2025-05-27,2025-05-28,88,75+,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,1,0
+E000227,P00526,2025-05-05,2025-05-07,31,30-44,General Medicine,Kidney disease,Blood test,Elective,Home,2,0
+E001066,P00253,2024-03-10,2024-03-12,90,75+,Respiratory,Type 2 diabetes,None recorded,Urgent,Home,2,0
+E000738,P00217,2025-02-08,2025-02-12,90,75+,Cardiology,Type 2 diabetes,Blood test,Elective,Home,4,0
+E001171,P00409,2024-02-02,2024-02-06,75,75+,General Medicine,COPD,Imaging,Elective,Rehabilitation,4,0
+E000834,P00093,2025-05-10,2025-05-12,85,75+,Surgery,COPD,None recorded,Elective,Home,2,0
+E000839,P00010,2025-12-22,2025-12-27,19,18-29,Surgery,Type 2 diabetes,Blood test,Emergency,Rehabilitation,5,0
+E000249,P00512,2025-06-23,2025-07-01,24,18-29,Surgery,Hypertension,Blood test,Elective,Home,8,0
+E000636,P00446,2024-04-10,2024-04-18,51,45-59,Cardiology,Heart failure,Surgical procedure,Emergency,Home,8,0
+E001008,P00328,2025-09-04,2025-09-08,20,18-29,Endocrinology,Pneumonia,Cardiac procedure,Elective,Home,4,0
+E000898,P00036,2025-09-20,2025-09-26,59,45-59,Respiratory,Pneumonia,Imaging,Emergency,Home,6,0
+E000626,P00152,2025-10-20,2025-10-24,41,30-44,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E000754,P00609,2024-12-05,2024-12-06,63,60-74,Respiratory,Hypertension,None recorded,Elective,Home,1,0
+E000637,P00154,2025-11-18,2025-11-21,32,30-44,General Medicine,Heart failure,None recorded,Urgent,Home,3,0
+E001045,P00461,2025-06-02,2025-06-08,32,30-44,Surgery,COPD,Imaging,Elective,Skilled nursing facility,6,0
+E000447,P00204,2024-09-07,2024-09-12,59,45-59,Surgery,COPD,None recorded,Emergency,Home,5,0
+E001139,P00484,2024-02-01,2024-02-04,21,18-29,General Medicine,Heart failure,None recorded,Elective,Skilled nursing facility,3,0
+E000963,P00547,2024-10-21,2024-10-22,60,60-74,Respiratory,Hypertension,Imaging,Emergency,Home,1,0
+E000461,P00471,2025-03-28,2025-03-31,38,30-44,Surgery,Type 2 diabetes,Surgical procedure,Urgent,Home,3,0
+E000850,P00394,2025-04-26,2025-04-27,57,45-59,Cardiology,Heart failure,None recorded,Urgent,Home,1,0
+E000175,P00453,2025-10-09,2025-10-12,26,18-29,Respiratory,Heart failure,Respiratory therapy,Emergency,Home,3,1
+E000054,P00304,2025-08-02,2025-08-11,79,75+,Surgery,Type 2 diabetes,Blood test,Emergency,Home,9,0
+E000757,P00480,2025-01-20,2025-01-25,89,75+,General Medicine,COPD,None recorded,Emergency,Rehabilitation,5,0
+E001073,P00492,2024-08-04,2024-08-16,59,45-59,Cardiology,Kidney disease,Blood test,Emergency,Home,12,0
+E000164,P00265,2024-05-27,2024-06-10,33,30-44,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,14,0
+E001145,P00216,2025-03-04,2025-03-11,66,60-74,Cardiology,Pneumonia,Blood test,Emergency,Home,7,0
+E000980,P00368,2024-11-29,2024-12-03,90,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000657,P00499,2024-09-30,2024-10-04,76,75+,Surgery,Kidney disease,Cardiac procedure,Urgent,Other facility,4,0
+E000860,P00521,2024-10-21,2024-10-28,41,30-44,General Medicine,Hypertension,Surgical procedure,Elective,Home,7,0
+E001177,P00206,2025-09-15,2025-09-22,73,60-74,Endocrinology,Kidney disease,Blood test,Emergency,Rehabilitation,7,1
+E000765,P00235,2025-08-19,2025-08-20,24,18-29,General Medicine,Pneumonia,Imaging,Emergency,Home,1,0
+E000045,P00045,2025-09-30,2025-10-08,61,60-74,Cardiology,Hypertension,None recorded,Emergency,Home,8,0
+E000491,P00607,2025-07-17,2025-07-24,61,60-74,Endocrinology,COPD,Cardiac procedure,Emergency,Home,7,0
+E001137,P00472,2024-11-27,2024-12-01,89,75+,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E001039,P00284,2024-12-13,2024-12-15,77,75+,Cardiology,Type 2 diabetes,None recorded,Elective,Rehabilitation,2,0
+E000613,P00510,2025-05-06,2025-05-07,43,30-44,Respiratory,Hypertension,Respiratory therapy,Elective,Home,1,0
+E000296,P00339,2024-11-10,2024-11-16,53,45-59,Surgery,Heart failure,None recorded,Emergency,Rehabilitation,6,0
+E000588,P00065,2024-03-13,2024-03-17,51,45-59,General Medicine,,Respiratory therapy,Urgent,Home,4,0
+E000301,P00237,2025-01-21,2025-02-01,42,30-44,General Medicine,Type 2 diabetes,,Elective,Skilled nursing facility,11,0
+E000445,P00331,2024-04-06,2024-04-11,88,75+,Cardiology,Pneumonia,Blood test,Urgent,Home,5,0
+E000897,P00332,2025-11-17,2025-11-22,56,45-59,General Medicine,Type 2 diabetes,Blood test,Urgent,Home,5,0
+E000678,P00055,2025-10-16,2025-10-20,78,75+,Surgery,Pneumonia,Surgical procedure,Elective,Home,4,0
+E001054,P00623,2024-12-31,2025-01-11,46,45-59,General Medicine,Kidney disease,Respiratory therapy,Emergency,Home,11,0
+E000354,P00283,2025-03-27,2025-03-31,46,45-59,Endocrinology,Pneumonia,Blood test,Elective,Home,4,0
+E000013,P00479,2024-12-02,2024-12-06,81,75+,Respiratory,Pneumonia,Imaging,Emergency,Home,4,0
+E000815,P00506,2025-04-17,2025-04-18,81,75+,General Medicine,Heart failure,Imaging,Urgent,Home,1,0
+E000334,P00540,2024-05-17,2024-05-25,30,30-44,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Rehabilitation,8,0
+E000303,P00007,2024-06-16,2024-06-17,45,45-59,Cardiology,Kidney disease,None recorded,Urgent,Home,1,0
+E000487,P00218,2024-11-08,2024-11-09,21,18-29,General Medicine,COPD,None recorded,Elective,Home,1,0
+E000958,P00413,2025-04-06,2025-04-09,32,30-44,General Medicine,Heart failure,Imaging,Elective,Home,3,0
+E000974,P00309,2025-07-12,2025-07-16,71,60-74,Respiratory,Type 2 diabetes,Respiratory therapy,Elective,Skilled nursing facility,4,0
+E000117,P00025,2025-06-02,2025-06-05,43,30-44,General Medicine,Heart failure,Cardiac procedure,Emergency,Skilled nursing facility,3,0
+E000620,P00091,2024-08-03,2024-08-09,42,30-44,General Medicine,Pneumonia,Blood test,Elective,Home,6,0
+E000746,P00237,2024-03-27,2024-04-02,42,30-44,Endocrinology,Heart failure,None recorded,Elective,Home,6,0
+E000235,P00321,2024-08-21,2024-08-23,63,60-74,Surgery,Hypertension,None recorded,Urgent,Home,2,0
+E000567,P00149,2025-01-03,2025-01-06,52,45-59,Respiratory,COPD,Respiratory therapy,Emergency,Home,3,0
+E000711,P00442,2024-02-24,2024-02-28,69,60-74,Respiratory,Pneumonia,None recorded,Emergency,,4,0
+E001151,P00241,2025-01-28,2025-02-06,35,30-44,Cardiology,Heart failure,None recorded,Elective,Home,9,0
+E000266,P00378,2024-03-22,2024-03-29,83,75+,Respiratory,Kidney disease,None recorded,Elective,Home,7,0
+E001075,P00304,2024-05-09,2024-05-12,79,75+,Surgery,Type 2 diabetes,Imaging,Urgent,Rehabilitation,3,0
+E000409,P00608,2024-06-21,2024-06-25,49,45-59,Respiratory,Type 2 diabetes,Blood test,Emergency,Rehabilitation,4,0
+E000131,P00368,2024-11-24,2024-11-28,90,75+,Cardiology,Hypertension,Respiratory therapy,Urgent,Rehabilitation,4,1
+E000424,P00378,2024-01-13,2024-01-17,83,75+,General Medicine,Kidney disease,Blood test,Elective,Home,4,0
+E001023,P00565,2024-01-20,2024-01-26,71,60-74,General Medicine,Hypertension,Cardiac procedure,Emergency,Home,6,0
+E000012,P00635,2025-07-24,2025-07-27,25,18-29,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,3,0
+E001158,P00553,2024-06-09,2024-06-29,86,75+,General Medicine,COPD,,Emergency,Home,20,0
+E000297,P00553,2025-02-06,2025-02-11,86,75+,Cardiology,COPD,None recorded,Emergency,Home,5,0
+E000339,P00132,2025-05-30,2025-06-05,76,75+,Endocrinology,Hypertension,Respiratory therapy,Elective,Skilled nursing facility,6,0
+E000096,P00188,2025-01-10,2025-01-20,41,30-44,General Medicine,Heart failure,None recorded,Emergency,Home,10,0
+E001121,P00010,2024-03-13,2024-03-19,19,18-29,Surgery,Pneumonia,Surgical procedure,Emergency,Home,6,1
+E000247,P00493,2025-11-15,2025-11-16,44,30-44,Respiratory,COPD,Imaging,Urgent,Home,1,0
+E000413,P00182,2025-05-04,2025-05-09,51,45-59,Endocrinology,Type 2 diabetes,None recorded,Elective,Home,5,0
+E000608,P00335,2024-12-17,2024-12-20,50,45-59,Surgery,Type 2 diabetes,Imaging,Elective,Home,3,0
+E000504,P00564,2024-05-25,2024-05-26,22,18-29,Endocrinology,COPD,None recorded,Emergency,Home,1,0
+E000108,P00433,2024-06-22,2024-07-02,39,30-44,Endocrinology,Pneumonia,Imaging,Emergency,Home,10,0
+E000259,P00114,2024-07-11,2024-07-15,73,60-74,General Medicine,Pneumonia,Blood test,Emergency,Home,4,0
+E000256,P00094,2024-02-17,2024-02-25,62,60-74,General Medicine,Pneumonia,Imaging,Emergency,Rehabilitation,8,0
+E000001,P00059,2025-10-03,2025-10-04,52,45-59,General Medicine,COPD,Imaging,Emergency,Home,1,0
+E000214,P00293,2025-08-01,2025-08-09,84,75+,Endocrinology,Type 2 diabetes,Imaging,Urgent,Home,8,0
+E000233,P00013,2024-05-04,2024-05-06,85,75+,Surgery,Type 2 diabetes,None recorded,Emergency,Home,2,0
+E001155,P00199,2024-08-13,2024-08-20,88,75+,Cardiology,Heart failure,Imaging,Emergency,Skilled nursing facility,7,1
+E000987,P00401,2024-08-10,2024-08-12,75,75+,Cardiology,Kidney disease,Blood test,Emergency,Home,2,0
+E001170,P00597,2024-05-08,2024-05-18,40,30-44,Respiratory,Hypertension,Surgical procedure,Emergency,Skilled nursing facility,10,0
+E000421,P00603,2024-07-12,2024-07-18,85,75+,Surgery,COPD,Surgical procedure,Emergency,Home,6,0
+E000717,P00337,2024-07-25,2024-07-29,59,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E001016,P00545,2024-10-11,2024-10-15,78,75+,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,4,0
+E001114,P00190,2024-02-08,2024-02-12,43,30-44,Respiratory,Kidney disease,Respiratory therapy,Urgent,Home,4,0
+E000576,P00243,2024-04-05,2024-04-15,32,30-44,Respiratory,Hypertension,None recorded,Urgent,Home,10,0
+E001012,P00520,2025-07-19,2025-07-25,45,45-59,Respiratory,Type 2 diabetes,Blood test,Urgent,Home,6,0
+E001193,P00111,2025-03-26,2025-03-28,32,30-44,Surgery,Pneumonia,Cardiac procedure,Elective,Home,2,0
+E000083,P00105,2024-10-14,2024-10-16,21,18-29,General Medicine,COPD,None recorded,Urgent,Home,2,0
+E000742,P00496,2024-07-03,2024-07-07,57,45-59,Respiratory,Pneumonia,Respiratory therapy,Urgent,Home,4,0
+E000370,P00502,2025-12-19,2025-12-22,76,75+,General Medicine,Pneumonia,Cardiac procedure,Urgent,Home,3,0
+E000196,P00057,2025-03-07,2025-03-10,79,75+,General Medicine,Hypertension,Surgical procedure,Emergency,Other facility,3,0
+E000489,P00498,2025-11-16,2025-11-19,63,60-74,Cardiology,Pneumonia,None recorded,Elective,Home,3,0
+E000619,P00040,2024-04-08,2024-04-12,22,18-29,Respiratory,Type 2 diabetes,Blood test,Urgent,Home,4,0
+E000360,P00487,2025-09-16,2025-09-18,86,75+,General Medicine,Kidney disease,Respiratory therapy,Urgent,Home,2,0
+E000832,P00157,2024-05-09,2024-05-19,76,75+,Cardiology,Pneumonia,Blood test,Emergency,Skilled nursing facility,10,0
+E000260,P00382,2025-01-11,2025-01-13,86,75+,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Home,2,0
+E000280,P00054,2024-10-31,2024-11-01,52,45-59,Endocrinology,Type 2 diabetes,Cardiac procedure,Elective,Rehabilitation,1,0
+E000770,P00245,2024-04-21,2024-04-24,51,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,3,0
+E000859,P00435,2024-10-14,2024-10-15,46,45-59,General Medicine,COPD,Imaging,Emergency,Home,1,0
+E000759,P00084,2025-04-27,2025-05-01,41,30-44,Endocrinology,Pneumonia,Cardiac procedure,Urgent,Home,4,0
+E000899,P00046,2025-07-02,2025-07-04,83,75+,General Medicine,Kidney disease,Imaging,Urgent,Home,2,0
+E000125,P00556,2025-09-24,2025-10-02,90,75+,Respiratory,Heart failure,Imaging,Urgent,Rehabilitation,8,0
+E001018,P00322,2025-12-29,2026-01-05,66,60-74,General Medicine,Kidney disease,Imaging,Emergency,Skilled nursing facility,7,0
+E000809,P00255,2025-07-28,2025-07-31,80,75+,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000548,P00385,2024-10-02,2024-10-12,84,75+,General Medicine,COPD,Imaging,Emergency,Home,10,0
+E001104,P00098,2025-10-03,2025-10-04,82,75+,General Medicine,Hypertension,Imaging,Emergency,Home,1,0
+E000486,P00152,2025-01-14,2025-01-20,41,30-44,General Medicine,Heart failure,Blood test,Emergency,Home,6,0
+E000912,P00120,2025-05-07,2025-05-12,90,75+,Endocrinology,Kidney disease,None recorded,Urgent,Home,5,0
+E000238,P00281,2025-04-21,2025-05-01,26,18-29,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Home,10,0
+E000503,P00626,2025-05-12,2025-05-13,63,60-74,Cardiology,Type 2 diabetes,None recorded,Elective,Skilled nursing facility,1,0
+E000785,P00311,2025-04-10,2025-04-12,22,18-29,Surgery,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000258,P00068,2024-11-28,2024-12-01,67,60-74,General Medicine,Type 2 diabetes,Imaging,Elective,Rehabilitation,3,0
+E000648,P00349,2025-01-30,2025-02-05,48,45-59,Cardiology,Kidney disease,None recorded,Emergency,Home,6,0
+E000348,P00609,2025-09-12,2025-09-13,63,60-74,Surgery,Kidney disease,Cardiac procedure,Urgent,Home,1,0
+E000658,P00412,2025-03-02,2025-03-08,38,30-44,Respiratory,Hypertension,Respiratory therapy,Emergency,Home,6,0
+E000186,P00291,2024-06-20,2024-06-22,71,60-74,Respiratory,COPD,Blood test,Emergency,Rehabilitation,2,0
+E000351,P00347,2024-07-23,2024-07-31,34,30-44,Respiratory,Hypertension,None recorded,Emergency,Home,8,0
+E000372,P00431,2024-09-20,2024-09-24,85,75+,Endocrinology,Type 2 diabetes,Blood test,Urgent,Home,4,0
+E001097,P00544,2024-05-02,2024-05-05,31,30-44,Surgery,COPD,Respiratory therapy,Emergency,Home,3,0
+E000395,P00468,2025-05-27,2025-06-06,29,18-29,Surgery,Type 2 diabetes,Blood test,Elective,Home,10,0
+E000322,P00071,2025-06-03,2025-06-08,83,75+,General Medicine,Pneumonia,Respiratory therapy,Urgent,Home,5,0
+E000580,P00067,2025-05-14,2025-05-17,39,30-44,Endocrinology,COPD,None recorded,Emergency,,3,0
+E000425,P00272,2025-02-07,2025-02-09,80,75+,Surgery,Type 2 diabetes,Respiratory therapy,Emergency,Home,2,1
+E000240,P00408,2025-11-28,2025-12-01,40,30-44,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,3,0
+E000524,P00537,2025-06-17,2025-06-20,74,60-74,General Medicine,Hypertension,Imaging,Emergency,Home,3,0
+E000848,P00034,2025-01-22,2025-01-29,40,30-44,General Medicine,Heart failure,,Emergency,Rehabilitation,7,0
+E001051,P00331,2025-01-04,2025-01-10,88,75+,Endocrinology,Pneumonia,Blood test,Urgent,Home,6,0
+E000156,P00431,2024-12-28,2025-01-01,85,75+,Respiratory,Type 2 diabetes,Blood test,Urgent,Rehabilitation,4,0
+E000472,P00523,2025-02-17,2025-02-20,27,18-29,General Medicine,Pneumonia,None recorded,Urgent,Rehabilitation,3,1
+E000655,P00360,2024-03-18,2024-03-24,49,45-59,Surgery,Hypertension,None recorded,Emergency,Home,6,0
+E000051,P00494,2024-06-25,2024-06-28,84,75+,General Medicine,Heart failure,None recorded,Emergency,Home,3,0
+E000864,P00502,2025-06-09,2025-06-12,76,75+,Respiratory,Kidney disease,None recorded,Urgent,Home,3,0
+E000977,P00062,2024-03-17,2024-03-18,33,30-44,Endocrinology,Type 2 diabetes,Blood test,Emergency,Home,1,0
+E000606,P00349,2024-02-02,2024-02-06,48,45-59,General Medicine,Hypertension,Cardiac procedure,Emergency,Home,4,0
+E001014,P00205,2024-03-25,2024-03-31,73,60-74,General Medicine,Kidney disease,Imaging,Emergency,Home,6,1
+E000326,P00150,2024-02-04,2024-02-09,27,18-29,General Medicine,Hypertension,Blood test,Emergency,Home,5,0
+E000992,P00357,2024-10-26,2024-10-30,82,75+,General Medicine,COPD,Cardiac procedure,Emergency,Skilled nursing facility,4,0
+E001019,P00028,2024-07-28,2024-08-01,46,45-59,General Medicine,Pneumonia,,Elective,Home,4,0
+E000353,P00195,2025-01-24,2025-01-30,40,30-44,General Medicine,Pneumonia,Respiratory therapy,Emergency,Skilled nursing facility,6,0
+E000502,P00424,2024-05-10,2024-05-13,89,75+,Respiratory,COPD,None recorded,Elective,Home,3,0
+E001046,P00100,2025-08-30,2025-09-02,85,75+,General Medicine,Hypertension,Imaging,Urgent,Home,3,0
+E000359,P00060,2025-12-27,2025-12-29,22,18-29,Respiratory,Kidney disease,None recorded,Emergency,Rehabilitation,2,0
+E000846,P00004,2025-12-25,2025-12-26,58,45-59,Cardiology,Kidney disease,Imaging,Emergency,Home,1,0
+E000893,P00340,2025-08-10,2025-08-13,43,30-44,Endocrinology,Type 2 diabetes,Blood test,Urgent,Home,3,0
+E000605,P00537,2024-04-03,2024-04-06,74,60-74,General Medicine,Type 2 diabetes,Imaging,Emergency,Other facility,3,0
+E001110,P00030,2025-01-24,2025-02-02,37,30-44,Endocrinology,Heart failure,Imaging,Emergency,Home,9,0
+E000363,P00146,2024-06-30,2024-07-05,47,45-59,General Medicine,Pneumonia,None recorded,Emergency,Skilled nursing facility,5,0
+E000324,P00596,2024-04-19,2024-05-02,64,60-74,Cardiology,Hypertension,None recorded,Emergency,Skilled nursing facility,13,0
+E000094,P00252,2024-01-04,2024-01-15,82,75+,Surgery,Heart failure,None recorded,Emergency,Skilled nursing facility,11,0
+E000428,P00523,2025-03-02,2025-03-11,27,18-29,Respiratory,Heart failure,Imaging,Emergency,Rehabilitation,9,0
+E000316,P00429,2025-11-10,2025-11-15,63,60-74,General Medicine,Heart failure,Cardiac procedure,Emergency,Home,5,0
+E000430,P00466,2024-04-02,2024-04-04,20,18-29,Surgery,Type 2 diabetes,Respiratory therapy,Elective,Home,2,0
+E000677,P00378,2024-06-19,2024-06-20,83,75+,Surgery,Kidney disease,Surgical procedure,Elective,Skilled nursing facility,1,0
+E000211,P00170,2024-02-14,2024-02-15,85,75+,Respiratory,Pneumonia,None recorded,Elective,Home,1,0
+E000342,P00190,2024-06-25,2024-06-30,43,30-44,Surgery,Heart failure,Blood test,Elective,Rehabilitation,5,0
+E000760,P00475,2024-05-16,2024-05-23,45,45-59,General Medicine,COPD,Surgical procedure,Emergency,Home,7,0
+E000890,P00176,2024-01-15,2024-01-22,42,30-44,Cardiology,,Blood test,Emergency,Rehabilitation,7,1
+E000874,P00082,2024-09-06,2024-09-09,80,75+,General Medicine,Hypertension,Respiratory therapy,Urgent,Home,3,0
+E000480,P00071,2025-01-10,2025-01-11,83,75+,General Medicine,Hypertension,Blood test,Emergency,Skilled nursing facility,1,0
+E000517,P00574,2025-04-16,2025-04-20,89,75+,Respiratory,Pneumonia,Blood test,Elective,Other facility,4,0
+E000718,P00320,2024-12-24,2024-12-29,29,18-29,Cardiology,,Blood test,Emergency,Home,5,0
+E000985,P00382,2025-04-07,2025-04-12,86,75+,Endocrinology,COPD,None recorded,Elective,Home,5,0
+E001129,P00362,2024-01-20,2024-01-25,49,45-59,Respiratory,Heart failure,None recorded,Emergency,Home,5,0
+E000817,P00029,2024-10-29,2024-10-30,73,60-74,General Medicine,Pneumonia,None recorded,Elective,Home,1,0
+E001135,P00399,2025-02-07,2025-02-19,69,60-74,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,12,0
+E000736,P00437,2024-04-29,2024-04-30,88,75+,Endocrinology,Pneumonia,Imaging,Elective,Home,1,0
+E000802,P00197,2024-02-15,2024-02-22,54,45-59,General Medicine,Type 2 diabetes,Cardiac procedure,Urgent,Home,7,0
+E000515,P00624,2025-04-15,2025-04-18,32,30-44,Respiratory,Heart failure,Blood test,Elective,Skilled nursing facility,3,0
+E000863,P00079,2024-04-19,2024-04-21,23,18-29,General Medicine,Pneumonia,Cardiac procedure,Emergency,Home,2,0
+E000248,P00271,2025-12-01,2025-12-03,75,75+,Endocrinology,Type 2 diabetes,Surgical procedure,Emergency,Home,2,0
+E000983,P00356,2025-03-18,2025-03-21,81,75+,Surgery,COPD,None recorded,Emergency,Rehabilitation,3,0
+E000371,P00219,2024-02-27,2024-03-28,65,60-74,General Medicine,Type 2 diabetes,Blood test,Emergency,,30,0
+E000684,P00624,2025-09-09,2025-09-11,32,30-44,General Medicine,Pneumonia,None recorded,Emergency,Home,2,0
+E000025,P00509,2024-10-31,2024-11-01,27,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,1,1
+E000039,P00180,2024-08-05,2024-08-07,59,45-59,Surgery,Heart failure,Blood test,Emergency,Home,2,0
+E000889,P00011,2024-08-10,2024-08-14,56,45-59,Endocrinology,Hypertension,Surgical procedure,Elective,Home,4,0
+E000129,P00374,2025-05-07,2025-05-14,69,60-74,General Medicine,Heart failure,Blood test,Urgent,Home,7,0
+E000385,P00021,2025-04-09,2025-04-16,36,30-44,Surgery,Hypertension,Imaging,Elective,Home,7,0
+E000666,P00452,2024-10-22,2024-10-23,46,45-59,General Medicine,Type 2 diabetes,None recorded,Urgent,Home,1,0
+E000298,P00286,2025-07-23,2025-07-24,53,45-59,Endocrinology,Pneumonia,Blood test,Elective,Home,1,0
+E000866,P00454,2025-01-06,2025-01-09,24,18-29,Endocrinology,Kidney disease,Blood test,Emergency,Home,3,0
+E000389,P00580,2025-09-21,2025-09-30,52,45-59,Endocrinology,COPD,Respiratory therapy,Emergency,Home,9,0
+E000268,P00226,2024-10-07,2024-10-17,60,60-74,General Medicine,Heart failure,Imaging,Urgent,Home,10,0
+E000615,P00447,2025-10-07,2025-10-08,80,75+,Respiratory,Pneumonia,Blood test,Emergency,Home,1,0
+E000485,P00301,2024-09-18,2024-09-23,82,75+,Endocrinology,Type 2 diabetes,None recorded,Elective,Rehabilitation,5,0
+E000099,P00414,2025-01-22,2025-01-25,88,75+,General Medicine,Hypertension,Respiratory therapy,Emergency,Rehabilitation,3,0
+E000362,P00580,2024-07-04,2024-07-10,52,45-59,General Medicine,Type 2 diabetes,Respiratory therapy,Urgent,Skilled nursing facility,6,0
+E000378,P00486,2025-08-06,2025-08-07,29,18-29,Respiratory,Hypertension,Surgical procedure,Emergency,Other facility,1,0
+E000147,P00023,2025-09-16,2025-09-20,25,18-29,Endocrinology,Pneumonia,Imaging,Urgent,Home,4,0
+E001090,P00093,2024-10-31,2024-11-05,85,75+,General Medicine,Heart failure,None recorded,Emergency,Home,5,0
+E000543,P00127,2024-11-28,2024-11-30,52,45-59,Surgery,Kidney disease,Imaging,Urgent,Home,2,0
+E000098,P00444,2025-05-09,2025-05-14,53,45-59,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,5,0
+E001108,P00590,2024-04-22,2024-04-28,49,45-59,Surgery,Heart failure,None recorded,Urgent,Home,6,0
+E000095,P00584,2025-11-25,2025-11-27,78,75+,General Medicine,Hypertension,Imaging,Emergency,Home,2,0
+E000446,P00431,2024-08-03,2024-08-04,85,75+,General Medicine,Hypertension,Blood test,Emergency,Home,1,0
+E000772,P00642,2025-11-03,2025-11-09,39,30-44,Respiratory,COPD,Blood test,Emergency,Home,6,0
+E000795,P00281,2025-07-04,2025-07-05,26,18-29,Surgery,Kidney disease,None recorded,Emergency,Home,1,0
+E000018,P00084,2025-06-18,2025-06-21,41,30-44,Cardiology,Type 2 diabetes,None recorded,Emergency,Skilled nursing facility,3,0
+E000931,P00350,2025-06-08,2025-06-16,89,75+,Endocrinology,Type 2 diabetes,Surgical procedure,Emergency,Home,8,0
+E000330,P00361,2025-11-01,2025-11-03,27,18-29,Respiratory,Pneumonia,Respiratory therapy,Urgent,Home,2,0
+E000727,P00469,2024-09-19,2024-09-26,80,75+,Respiratory,Pneumonia,Cardiac procedure,Urgent,Home,7,0
+E001107,P00159,2024-08-25,2024-08-28,20,18-29,Cardiology,COPD,Respiratory therapy,Emergency,Home,3,0
+E000997,P00343,2024-07-31,2024-08-05,55,45-59,Endocrinology,Pneumonia,None recorded,Emergency,Home,5,0
+E000820,P00650,2024-12-02,2024-12-04,69,60-74,Respiratory,Heart failure,None recorded,Emergency,Skilled nursing facility,2,0
+E000930,P00376,2024-08-21,2024-08-23,40,30-44,Endocrinology,Heart failure,None recorded,Emergency,Home,2,0
+E000886,P00478,2025-04-23,2025-04-24,86,75+,Endocrinology,COPD,Blood test,Elective,Home,1,0
+E000729,P00318,2024-05-13,2024-05-24,68,60-74,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,11,0
+E000293,P00620,2024-01-22,2024-01-24,72,60-74,Cardiology,Type 2 diabetes,None recorded,Urgent,Skilled nursing facility,2,1
+E000702,P00401,2025-01-22,2025-01-23,75,75+,Endocrinology,Type 2 diabetes,Respiratory therapy,Elective,Home,1,0
+E000822,P00433,2025-04-26,2025-04-29,39,30-44,Respiratory,Pneumonia,Blood test,Emergency,Home,3,0
+E001038,P00010,2024-07-16,2024-07-18,19,18-29,Respiratory,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,2,0
+E000808,P00072,2024-04-21,2024-05-03,25,18-29,Respiratory,Pneumonia,Blood test,Emergency,Home,12,0
+E000111,P00181,2025-01-17,2025-01-20,46,45-59,Cardiology,COPD,Blood test,Elective,Home,3,0
+E000872,P00132,2025-04-17,2025-04-20,76,75+,General Medicine,Kidney disease,None recorded,Elective,Home,3,1
+E000725,P00511,2024-09-20,2024-09-28,26,18-29,Cardiology,Kidney disease,Blood test,Elective,Home,8,0
+E000894,P00638,2024-05-24,2024-05-28,29,18-29,General Medicine,Heart failure,Blood test,Elective,Home,4,0
+E000357,P00099,2025-10-16,2025-10-18,20,18-29,Endocrinology,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,2,0
+E000891,P00065,2025-10-09,2025-10-11,51,45-59,General Medicine,COPD,None recorded,Emergency,Home,2,0
+E000947,P00633,2024-05-08,2024-05-11,59,45-59,Respiratory,Pneumonia,None recorded,Emergency,Skilled nursing facility,3,0
+E000878,P00485,2024-11-17,2024-11-23,43,30-44,Respiratory,Pneumonia,None recorded,Elective,Home,6,1
+E000017,P00334,2025-01-05,2025-01-06,33,30-44,General Medicine,Kidney disease,None recorded,Elective,Skilled nursing facility,1,0
+E000528,P00094,2025-02-20,2025-02-24,62,60-74,Cardiology,Type 2 diabetes,Imaging,Elective,Home,4,1
+E000346,P00167,2025-03-06,2025-03-17,76,75+,General Medicine,Type 2 diabetes,Surgical procedure,Elective,Home,11,0
+E000091,P00283,2024-06-19,2024-06-24,46,45-59,General Medicine,Pneumonia,Blood test,Emergency,Home,5,0
+E000263,P00195,2024-02-04,2024-02-07,40,30-44,Endocrinology,Pneumonia,,Emergency,Other facility,3,0
+E000780,P00553,2025-08-02,2025-08-03,86,75+,Cardiology,COPD,None recorded,Emergency,Home,1,0
+E000514,P00531,2025-06-19,2025-06-26,30,30-44,Endocrinology,Heart failure,Blood test,Emergency,Other facility,7,0
+E000880,P00410,2024-04-01,2024-04-07,31,30-44,Respiratory,Hypertension,Respiratory therapy,Emergency,Home,6,0
+E000195,P00624,2024-06-06,2024-06-08,32,30-44,Respiratory,COPD,Blood test,Emergency,Home,2,0
+E001092,P00292,2024-08-22,2024-08-24,62,60-74,General Medicine,Heart failure,Blood test,Emergency,Home,2,1
+E000988,P00206,2024-07-07,2024-07-10,73,60-74,General Medicine,Hypertension,Blood test,Emergency,Home,3,1
+E000250,P00028,2024-03-16,2024-03-21,46,45-59,Endocrinology,Pneumonia,Cardiac procedure,Elective,Home,5,0
+E000275,P00272,2025-12-14,2025-12-21,80,75+,Endocrinology,Type 2 diabetes,None recorded,Emergency,Home,7,0
+E000074,P00085,2025-05-07,2025-05-10,43,30-44,Respiratory,COPD,Blood test,Elective,Home,3,0
+E001042,P00557,2025-04-29,2025-05-04,25,18-29,General Medicine,Pneumonia,Blood test,Elective,Home,5,0
+E000329,P00092,2024-01-16,2024-01-17,37,30-44,Respiratory,Kidney disease,Blood test,Emergency,Home,1,0
+E000410,P00010,2024-04-01,2024-04-02,19,18-29,Endocrinology,COPD,Respiratory therapy,Urgent,Home,1,0
+E000047,P00290,2025-09-19,2025-09-26,89,75+,Endocrinology,Kidney disease,None recorded,Elective,Home,7,0
+E000056,P00029,2024-03-02,2024-03-04,73,60-74,Surgery,Type 2 diabetes,None recorded,Elective,Home,2,0
+E000390,P00100,2024-01-22,2024-01-24,85,75+,General Medicine,Pneumonia,None recorded,Emergency,Home,2,0
+E000474,P00304,2025-07-07,2025-07-13,79,75+,Respiratory,Type 2 diabetes,None recorded,Elective,Home,6,1
+E000267,P00291,2025-04-08,2025-04-15,71,60-74,General Medicine,Kidney disease,Imaging,Emergency,Home,7,0
+E001001,P00526,2024-09-24,2024-09-27,31,30-44,General Medicine,Kidney disease,Blood test,Emergency,Home,3,0
+E000690,P00509,2024-11-24,2024-12-03,27,18-29,Surgery,Heart failure,Blood test,Emergency,Home,9,0
+E000875,P00454,2025-05-23,2025-06-02,24,18-29,Endocrinology,Heart failure,Cardiac procedure,Urgent,Home,10,1
+E000741,P00532,2024-04-30,2024-05-06,67,60-74,General Medicine,Kidney disease,Blood test,Emergency,Rehabilitation,6,0
+E001059,P00276,2024-01-01,2024-01-09,61,60-74,General Medicine,,None recorded,Elective,Home,8,0
+E000286,P00610,2025-09-21,2025-09-29,77,75+,General Medicine,Heart failure,Imaging,Emergency,Home,8,0
+E000854,P00156,2025-11-22,2025-11-26,25,18-29,General Medicine,COPD,Blood test,Emergency,Skilled nursing facility,4,0
+E000650,P00552,2024-04-30,2024-05-03,55,45-59,Cardiology,Pneumonia,Respiratory therapy,Emergency,Home,3,0
+E001132,P00436,2025-09-20,2025-09-25,57,45-59,Cardiology,Kidney disease,Blood test,Elective,Rehabilitation,5,0
+E000160,P00510,2024-09-23,2024-09-30,43,30-44,General Medicine,Pneumonia,Blood test,Emergency,Other facility,7,0
+E000230,P00115,2025-07-28,2025-08-04,25,18-29,Cardiology,Pneumonia,Imaging,Urgent,Home,7,0
+E000272,P00015,2025-05-24,2025-05-27,45,45-59,Endocrinology,COPD,None recorded,Emergency,Home,3,0
+E000189,P00156,2025-10-12,2025-10-16,25,18-29,Surgery,COPD,Blood test,Elective,Rehabilitation,4,0
+E000683,P00624,2024-05-09,2024-05-17,32,30-44,Cardiology,Type 2 diabetes,None recorded,Urgent,Home,8,1
+E000379,P00247,2024-03-23,2024-03-31,59,45-59,General Medicine,Kidney disease,Blood test,Elective,Home,8,0
+E000861,P00630,2025-10-14,2025-10-20,83,75+,Respiratory,Kidney disease,Respiratory therapy,Emergency,Home,6,0
+E000333,P00202,2025-11-12,2025-11-13,33,30-44,General Medicine,Type 2 diabetes,Blood test,Elective,Other facility,1,0
+E000392,P00117,2024-09-09,2024-09-11,68,60-74,Endocrinology,Type 2 diabetes,Surgical procedure,Emergency,Rehabilitation,2,0
+E000663,P00023,2025-09-10,2025-09-18,25,18-29,Endocrinology,Hypertension,Surgical procedure,Urgent,Home,8,0
+E000134,P00364,2025-08-12,2025-08-16,20,18-29,Cardiology,COPD,Blood test,Emergency,Home,4,0
+E001172,P00411,2025-08-23,2025-08-28,55,45-59,Respiratory,Heart failure,Imaging,Urgent,Home,5,0
+E000914,P00638,2025-10-26,2025-11-03,29,18-29,Cardiology,Kidney disease,None recorded,Emergency,Home,8,0
+E000368,P00206,2025-03-16,2025-03-20,73,60-74,Endocrinology,Kidney disease,None recorded,Emergency,Skilled nursing facility,4,0
+E000624,P00271,2025-10-01,2025-10-05,75,75+,Respiratory,Kidney disease,Imaging,Urgent,Home,4,0
+E000739,P00480,2025-12-01,2025-12-02,89,75+,General Medicine,Heart failure,None recorded,Elective,Home,1,0
+E001198,P00639,2024-07-30,2024-08-10,38,30-44,Cardiology,Heart failure,Blood test,Urgent,Home,11,0
+E000228,P00377,2025-10-20,2025-10-27,56,45-59,Surgery,Type 2 diabetes,Blood test,Elective,Rehabilitation,7,0
+E001180,P00017,2025-04-22,2025-04-24,63,60-74,Endocrinology,Heart failure,Respiratory therapy,Elective,Home,2,0
+E000589,P00545,2024-12-11,2024-12-21,78,75+,Endocrinology,Pneumonia,None recorded,Elective,Rehabilitation,10,0
+E000325,P00634,2025-03-16,2025-03-21,26,18-29,Respiratory,Type 2 diabetes,Cardiac procedure,Emergency,Home,5,0
+E000961,P00100,2025-08-13,2025-08-15,85,75+,Cardiology,Type 2 diabetes,Respiratory therapy,Urgent,Skilled nursing facility,2,1
+E000527,P00601,2025-11-24,2025-12-02,74,60-74,General Medicine,Pneumonia,Surgical procedure,Emergency,Home,8,0
+E001182,P00603,2024-11-23,2024-11-24,85,75+,Surgery,Kidney disease,None recorded,Elective,Other facility,1,0
+E000904,P00575,2024-04-04,2024-04-15,19,18-29,Endocrinology,,Cardiac procedure,Urgent,Home,11,0
+E000121,P00286,2024-03-24,2024-03-25,53,45-59,Cardiology,Pneumonia,Blood test,Elective,Home,1,0
+E001148,P00500,2025-07-03,2025-07-08,32,30-44,Cardiology,Type 2 diabetes,Blood test,Elective,Home,5,0
+E000336,P00526,2024-01-23,2024-01-25,31,30-44,Endocrinology,Pneumonia,Surgical procedure,Elective,Home,2,0
+E000141,P00639,2025-01-24,2025-01-29,38,30-44,Respiratory,Type 2 diabetes,Cardiac procedure,Emergency,Skilled nursing facility,5,0
+E001154,P00592,2024-12-05,2024-12-10,64,60-74,Respiratory,Type 2 diabetes,Blood test,Elective,Home,5,0
+E000312,P00437,2024-06-15,2024-06-21,88,75+,General Medicine,Pneumonia,Blood test,Urgent,Home,6,0
+E000203,P00322,2024-08-06,2024-08-10,66,60-74,Respiratory,Pneumonia,Blood test,Urgent,Home,4,0
+E000670,P00086,2025-07-17,2025-07-18,44,30-44,Endocrinology,COPD,None recorded,Elective,Rehabilitation,1,0
+E000570,P00372,2024-05-23,2024-05-27,20,18-29,Surgery,Pneumonia,Blood test,Elective,Home,4,0
+E000401,P00649,2024-08-08,2024-08-11,30,30-44,General Medicine,Type 2 diabetes,Imaging,Urgent,Home,3,0
+E000604,P00088,2024-07-08,2024-07-17,22,18-29,General Medicine,Pneumonia,None recorded,Urgent,Home,9,0
+E000941,P00450,2025-05-26,2025-05-30,44,30-44,Respiratory,Heart failure,None recorded,Urgent,Home,4,0
+E000688,P00386,2024-10-28,2024-11-02,26,18-29,Respiratory,Pneumonia,Imaging,Elective,Home,5,0
+E001080,P00544,2025-05-05,2025-05-08,31,30-44,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000215,P00479,2025-03-03,2025-03-05,81,75+,Respiratory,Type 2 diabetes,Cardiac procedure,Emergency,Rehabilitation,2,0
+E000895,P00488,2024-04-28,2024-04-29,22,18-29,Surgery,Hypertension,Imaging,Urgent,Home,1,0
+E000089,P00500,2024-03-15,2024-03-16,32,30-44,Cardiology,Type 2 diabetes,,Urgent,Skilled nursing facility,1,0
+E000810,P00649,2025-04-06,2025-04-11,30,30-44,Cardiology,COPD,Respiratory therapy,Emergency,Home,5,0
+E001005,P00084,2024-11-27,2024-12-06,41,30-44,Endocrinology,Kidney disease,,Emergency,Home,9,0
+E000837,P00526,2025-03-02,2025-03-10,31,30-44,General Medicine,Pneumonia,Blood test,Emergency,Home,8,0
+E000611,P00542,2024-06-27,2024-06-29,86,75+,Endocrinology,Heart failure,None recorded,Urgent,Home,2,0
+E000030,P00289,2024-07-29,2024-08-05,64,60-74,General Medicine,Hypertension,None recorded,Emergency,Home,7,0
+E000218,P00063,2024-11-16,2024-11-19,52,45-59,General Medicine,Kidney disease,None recorded,Urgent,Skilled nursing facility,3,0
+E000761,P00115,2025-09-04,2025-09-07,25,18-29,General Medicine,COPD,Blood test,Emergency,Rehabilitation,3,0
+E000849,P00533,2025-07-02,2025-07-07,29,18-29,General Medicine,Heart failure,Blood test,Urgent,Home,5,0
+E000236,P00468,2024-03-15,2024-03-24,29,18-29,General Medicine,Kidney disease,Blood test,Elective,Home,9,0
+E000581,P00061,2024-02-04,2024-02-08,42,30-44,Endocrinology,Type 2 diabetes,Blood test,Emergency,Rehabilitation,4,0
+E001138,P00239,2025-08-21,2025-08-25,29,18-29,Cardiology,COPD,Blood test,Emergency,Home,4,1
+E000393,P00239,2024-10-06,2024-10-12,29,18-29,Respiratory,COPD,Cardiac procedure,Emergency,Skilled nursing facility,6,0
+E001195,P00342,2024-12-11,2024-12-21,25,18-29,Endocrinology,Heart failure,Blood test,Elective,Home,10,0
+E001162,P00325,2025-07-02,2025-07-06,75,75+,General Medicine,Hypertension,Cardiac procedure,Emergency,Home,4,0
+E000812,P00572,2024-10-13,2024-10-17,21,18-29,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,4,0
+E000173,P00502,2024-11-24,2024-11-30,76,75+,Respiratory,Type 2 diabetes,Imaging,Emergency,Home,6,0
+E000706,P00368,2024-06-27,2024-07-06,90,75+,General Medicine,Pneumonia,Blood test,Elective,Home,9,1
+E000460,P00069,2024-07-04,2024-07-13,19,18-29,Endocrinology,Type 2 diabetes,Respiratory therapy,Elective,Home,9,0
+E000397,P00030,2025-04-26,2025-05-03,37,30-44,General Medicine,Heart failure,Imaging,Emergency,Home,7,0
+E000221,P00083,2025-11-24,2025-11-30,31,30-44,Endocrinology,Heart failure,Blood test,Emergency,Skilled nursing facility,6,0
+E001176,P00221,2025-12-23,2025-12-26,79,75+,Endocrinology,Type 2 diabetes,Imaging,Emergency,Home,3,0
+E000347,P00645,2025-05-16,2025-05-20,31,30-44,Cardiology,Hypertension,Blood test,Emergency,Home,4,0
+E001078,P00108,2024-02-07,2024-02-10,63,60-74,Cardiology,Heart failure,Cardiac procedure,Elective,Home,3,0
+E000926,P00615,2024-07-05,2024-07-17,53,45-59,Endocrinology,Heart failure,None recorded,Emergency,Home,12,0
+E000762,P00360,2025-12-22,2026-01-01,49,45-59,Surgery,COPD,Blood test,Emergency,Rehabilitation,10,0
+E000669,P00598,2024-01-23,2024-02-07,43,30-44,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,15,0
+E000469,P00118,2025-01-23,2025-01-29,56,45-59,General Medicine,COPD,Imaging,Emergency,Home,6,0
+E000104,P00005,2025-10-15,2025-10-20,46,45-59,General Medicine,Kidney disease,Blood test,Emergency,Home,5,0
+E000414,P00086,2025-05-20,2025-05-22,44,30-44,General Medicine,Kidney disease,Blood test,Emergency,Rehabilitation,2,0
+E000787,P00022,2025-08-26,2025-08-31,73,60-74,General Medicine,COPD,None recorded,Emergency,Home,5,0
+E000027,P00262,2024-03-19,2024-03-21,74,60-74,Cardiology,COPD,Surgical procedure,Emergency,Skilled nursing facility,2,0
+E000057,P00356,2024-06-11,2024-06-12,81,75+,General Medicine,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,1,0
+E000664,P00132,2024-09-28,2024-10-01,76,75+,General Medicine,Heart failure,Imaging,Urgent,Home,3,0
+E001179,P00169,2025-12-22,2025-12-26,45,45-59,Respiratory,Pneumonia,Imaging,Emergency,Home,4,0
+E001065,P00490,2024-03-18,2024-03-24,32,30-44,Cardiology,COPD,None recorded,Elective,Home,6,0
+E000610,P00558,2025-12-01,2025-12-05,53,45-59,Cardiology,Heart failure,Blood test,Emergency,Home,4,0
+E000471,P00480,2025-07-11,2025-07-13,89,75+,Respiratory,Heart failure,Blood test,Elective,Home,2,1
+E001116,P00319,2024-01-01,2024-01-03,60,60-74,Endocrinology,COPD,None recorded,Elective,Skilled nursing facility,2,0
+E001074,P00342,2024-12-02,2024-12-09,25,18-29,Surgery,Heart failure,Blood test,Emergency,Other facility,7,1
+E000671,P00620,2024-02-01,2024-02-04,72,60-74,Respiratory,Hypertension,Surgical procedure,Elective,Rehabilitation,3,0
+E001163,P00552,2025-12-03,2025-12-11,55,45-59,Endocrinology,Kidney disease,Blood test,Urgent,Home,8,0
+E000340,P00620,2025-03-28,2025-04-04,72,60-74,Endocrinology,Heart failure,Imaging,Emergency,Home,7,0
+E000903,P00143,2024-05-05,2024-05-10,87,75+,Endocrinology,COPD,Blood test,Emergency,Home,5,0
+E000549,P00336,2025-08-10,2025-08-16,28,18-29,Respiratory,COPD,None recorded,Emergency,Home,6,0
+E000617,P00163,2024-06-19,2024-06-20,66,60-74,Cardiology,Kidney disease,None recorded,Elective,Home,1,0
+E000433,P00537,2024-03-07,2024-03-08,74,60-74,General Medicine,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,1,1
+E000194,P00236,2025-06-25,2025-06-27,19,18-29,Endocrinology,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000157,P00083,2024-09-08,2024-09-11,31,30-44,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,3,0
+E000476,P00511,2025-12-18,2025-12-21,26,18-29,Respiratory,Kidney disease,Cardiac procedure,Emergency,Home,3,0
+E001079,P00272,2024-09-26,2024-09-30,80,75+,Respiratory,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E000261,P00516,2025-07-30,2025-08-03,49,45-59,Respiratory,Type 2 diabetes,Cardiac procedure,Elective,Home,4,0
+E000149,P00535,2025-06-20,2025-06-25,76,75+,General Medicine,Type 2 diabetes,None recorded,Urgent,Home,5,0
+E000123,P00426,2025-02-05,2025-02-07,79,75+,Respiratory,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000877,P00351,2024-12-04,2024-12-06,35,30-44,Respiratory,Type 2 diabetes,None recorded,Emergency,,2,0
+E000356,P00646,2024-04-28,2024-05-07,82,75+,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,9,1
+E000776,P00619,2024-02-06,2024-02-08,61,60-74,Surgery,Heart failure,Surgical procedure,Urgent,Home,2,0
+E000367,P00306,2025-12-07,2025-12-08,38,30-44,Respiratory,Hypertension,None recorded,Elective,Home,1,0
+E001140,P00351,2024-03-08,2024-03-14,35,30-44,Cardiology,Hypertension,Surgical procedure,Emergency,Other facility,6,0
+E000766,P00508,2025-06-25,2025-06-27,87,75+,Surgery,Pneumonia,Blood test,Urgent,Home,2,0
+E000050,P00506,2025-12-14,2025-12-22,81,75+,General Medicine,Kidney disease,None recorded,Emergency,Home,8,0
+E001153,P00281,2025-06-05,2025-06-08,26,18-29,Respiratory,Hypertension,None recorded,Elective,Home,3,1
+E001149,P00448,2024-05-27,2024-06-02,46,45-59,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,6,0
+E000394,P00390,2024-01-14,2024-01-20,78,75+,Endocrinology,Type 2 diabetes,Respiratory therapy,Emergency,Home,6,0
+E000220,P00587,2024-12-13,2024-12-27,72,60-74,Endocrinology,Heart failure,Blood test,Emergency,Home,14,0
+E000784,P00080,2025-07-02,2025-07-08,27,18-29,Endocrinology,COPD,None recorded,Emergency,Home,6,0
+E000418,P00080,2025-01-05,2025-01-09,27,18-29,Cardiology,Hypertension,,Elective,Home,4,0
+E000441,P00633,2025-06-10,2025-06-15,59,45-59,General Medicine,COPD,None recorded,Emergency,Home,5,0
+E000686,P00521,2024-05-11,2024-05-20,41,30-44,Surgery,COPD,Respiratory therapy,Emergency,Home,9,0
+E000419,P00193,2024-03-29,2024-04-09,56,45-59,General Medicine,Type 2 diabetes,None recorded,Elective,Home,11,0
+E000199,P00221,2024-01-19,2024-01-24,79,75+,Endocrinology,COPD,Blood test,Emergency,Home,5,0
+E000602,P00507,2024-12-07,2024-12-12,63,60-74,General Medicine,Heart failure,Imaging,Elective,Home,5,0
+E001133,P00517,2024-07-14,2024-07-21,63,60-74,Endocrinology,Heart failure,Blood test,Emergency,Rehabilitation,7,0
+E000382,P00609,2024-06-06,2024-06-08,63,60-74,Cardiology,Heart failure,Imaging,Emergency,Home,2,0
+E000456,P00361,2024-06-17,2024-06-22,27,18-29,Respiratory,Hypertension,Blood test,Elective,Home,5,0
+E000960,P00268,2024-08-31,2024-09-08,88,75+,Respiratory,Type 2 diabetes,Respiratory therapy,Emergency,Skilled nursing facility,8,0
+E000752,P00097,2025-03-19,2025-03-24,76,75+,Endocrinology,Kidney disease,None recorded,Elective,Home,5,0
+E000344,P00335,2025-02-19,2025-02-20,50,45-59,Endocrinology,COPD,Cardiac procedure,Emergency,Home,1,0
+E001157,P00079,2024-10-27,2024-10-28,23,18-29,Respiratory,Hypertension,Imaging,Emergency,Skilled nursing facility,1,0
+E001196,P00412,2025-04-23,2025-04-29,38,30-44,Cardiology,Type 2 diabetes,Imaging,Emergency,Home,6,0
+E000166,P00530,2024-01-13,2024-01-15,65,60-74,Respiratory,Type 2 diabetes,None recorded,Emergency,Home,2,0
+E000884,P00101,2025-05-02,2025-05-07,69,60-74,General Medicine,Type 2 diabetes,Blood test,Elective,Home,5,0
+E000603,P00481,2024-11-27,2024-11-30,20,18-29,General Medicine,Kidney disease,Imaging,Emergency,Skilled nursing facility,3,0
+E000097,P00156,2024-07-10,2024-07-15,25,18-29,Cardiology,COPD,None recorded,Elective,Home,5,0
+E000989,P00161,2024-12-03,2024-12-04,60,60-74,General Medicine,Kidney disease,Surgical procedure,Urgent,Home,1,0
+E000843,P00592,2025-06-28,2025-06-29,64,60-74,Cardiology,Pneumonia,Imaging,Emergency,Home,1,0
+E000627,P00220,2024-03-17,2024-03-22,87,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Other facility,5,0
+E000583,P00070,2024-01-18,2024-01-21,33,30-44,Surgery,Type 2 diabetes,None recorded,Urgent,Rehabilitation,3,0
+E000287,P00105,2024-04-28,2024-04-29,21,18-29,Cardiology,Hypertension,Blood test,Elective,Home,1,0
+E000982,P00457,2024-06-24,2024-06-25,59,45-59,Surgery,Heart failure,Respiratory therapy,Urgent,Home,1,0
+E000398,P00128,2025-06-13,2025-06-17,87,75+,Cardiology,Heart failure,Imaging,Emergency,Home,4,0
+E000640,P00617,2025-02-07,2025-02-10,56,45-59,Respiratory,Heart failure,None recorded,Emergency,Home,3,0
+E000321,P00209,2025-09-22,2025-09-24,56,45-59,Endocrinology,Hypertension,Blood test,Emergency,Home,2,0
+E000225,P00470,2024-07-05,2024-07-06,33,30-44,Cardiology,Hypertension,Blood test,Emergency,Home,1,1
+E001032,P00113,2024-02-20,2024-02-25,88,75+,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Home,5,0
+E000539,P00352,2024-01-03,2024-01-07,23,18-29,General Medicine,Pneumonia,Surgical procedure,Emergency,Home,4,0
+E000845,P00004,2024-07-21,2024-07-27,58,45-59,Endocrinology,Heart failure,Imaging,Elective,Home,6,1
+E000791,P00063,2025-01-22,2025-01-23,52,45-59,General Medicine,Kidney disease,None recorded,Elective,Skilled nursing facility,1,0
+E000786,P00383,2025-08-02,2025-08-08,73,60-74,Surgery,Hypertension,Cardiac procedure,Urgent,Other facility,6,0
+E000559,P00516,2025-02-21,2025-02-27,49,45-59,General Medicine,Type 2 diabetes,None recorded,Elective,Rehabilitation,6,0
+E000179,P00586,2025-01-02,2025-01-08,65,60-74,Endocrinology,Hypertension,Blood test,Emergency,Skilled nursing facility,6,0
+E001159,P00250,2025-04-01,2025-04-04,42,30-44,Endocrinology,Pneumonia,None recorded,Emergency,Rehabilitation,3,0
+E000755,P00361,2025-12-09,2025-12-16,27,18-29,Endocrinology,Pneumonia,Respiratory therapy,Emergency,Other facility,7,0
+E001169,P00649,2024-04-28,2024-05-09,30,30-44,Surgery,Pneumonia,Blood test,Urgent,Home,11,0
+E000505,P00179,2025-11-02,2025-11-14,88,75+,Endocrinology,Pneumonia,None recorded,Emergency,Rehabilitation,12,0
+E000295,P00355,2024-10-26,2024-11-02,90,75+,Endocrinology,Type 2 diabetes,Imaging,Emergency,Home,7,1
+E000665,P00389,2025-09-01,2025-09-07,18,18-29,Surgery,Type 2 diabetes,Respiratory therapy,Emergency,Home,6,0
+E000551,P00523,2025-11-10,2025-11-11,27,18-29,Endocrinology,Kidney disease,Imaging,Urgent,Home,1,0
+E000995,P00345,2025-04-24,2025-04-28,32,30-44,General Medicine,Pneumonia,Blood test,Emergency,Home,4,0
+E000507,P00346,2025-12-18,2025-12-21,47,45-59,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,3,0
+E000404,P00632,2024-08-19,2024-08-20,37,30-44,General Medicine,COPD,Respiratory therapy,Urgent,Rehabilitation,1,0
+E000452,P00602,2024-01-14,2024-01-16,67,60-74,Cardiology,Kidney disease,Imaging,Urgent,Home,2,1
+E000122,P00435,2024-07-19,2024-07-22,46,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,3,0
+E000917,P00353,2025-12-02,2025-12-04,60,60-74,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,2,0
+E000019,P00546,2025-08-13,2025-08-15,25,18-29,General Medicine,Kidney disease,Imaging,Urgent,Home,2,1
+E000709,P00310,2024-01-27,2024-01-29,81,75+,Surgery,Type 2 diabetes,Blood test,Elective,Home,2,0
+E000708,P00373,2024-04-27,2024-05-01,32,30-44,General Medicine,Hypertension,Blood test,Emergency,Home,4,0
+E001120,P00321,2025-07-19,2025-07-20,63,60-74,General Medicine,Hypertension,None recorded,Emergency,Home,1,0
+E000833,P00295,2024-03-07,2024-03-10,86,75+,Cardiology,Hypertension,Surgical procedure,Emergency,Other facility,3,0
+E000781,P00571,2025-04-25,2025-04-26,62,60-74,General Medicine,Pneumonia,Blood test,Urgent,Home,1,0
+E000073,P00301,2025-11-11,2025-11-16,82,75+,General Medicine,Heart failure,Blood test,Emergency,Home,5,1
+E001111,P00411,2024-07-23,2024-07-25,55,45-59,Cardiology,Heart failure,None recorded,Emergency,Home,2,0
+E000577,P00602,2024-08-30,2024-09-03,67,60-74,General Medicine,Heart failure,Blood test,Emergency,Home,4,0
+E000547,P00280,2025-12-22,2025-12-24,45,45-59,Cardiology,Pneumonia,Blood test,Urgent,Home,2,0
+E000695,P00059,2024-04-07,2024-04-09,52,45-59,General Medicine,Kidney disease,Blood test,Emergency,Home,2,0
+E000093,P00548,2024-11-19,2024-11-24,54,45-59,Endocrinology,Pneumonia,Blood test,Emergency,Home,5,0
+E000768,P00312,2024-12-08,2024-12-18,19,18-29,Endocrinology,Kidney disease,Imaging,Emergency,Rehabilitation,10,0
+E000245,P00409,2024-04-11,2024-04-20,75,75+,Respiratory,Type 2 diabetes,Blood test,Emergency,Skilled nursing facility,9,0
+E000318,P00473,2024-02-05,2024-02-09,77,75+,General Medicine,Kidney disease,Blood test,Urgent,Home,4,0
+E000391,P00486,2025-06-21,2025-06-24,29,18-29,General Medicine,COPD,Imaging,Urgent,Rehabilitation,3,0
+E000560,P00554,2025-02-28,2025-03-02,49,45-59,Endocrinology,Type 2 diabetes,Respiratory therapy,Emergency,Skilled nursing facility,2,0
+E001076,P00107,2024-11-06,2024-11-14,51,45-59,Cardiology,Type 2 diabetes,None recorded,Emergency,Home,8,0
+E000294,P00216,2024-08-31,2024-09-05,66,60-74,Cardiology,Heart failure,Surgical procedure,Emergency,Home,5,0
+E001049,P00435,2024-04-23,2024-05-02,46,45-59,Respiratory,Kidney disease,Respiratory therapy,Emergency,Rehabilitation,9,0
+E001009,P00477,2024-06-20,2024-06-25,66,60-74,General Medicine,Pneumonia,Blood test,Emergency,Home,5,0
+E000169,P00218,2025-12-04,2025-12-06,21,18-29,Respiratory,Pneumonia,None recorded,Elective,Home,2,1
+E000600,P00418,2025-01-16,2025-01-19,81,75+,Cardiology,Pneumonia,Cardiac procedure,Urgent,Home,3,0
+E000715,P00599,2024-08-27,2024-08-28,49,45-59,Endocrinology,Pneumonia,None recorded,Emergency,Skilled nursing facility,1,0
+E000775,P00551,2025-02-12,2025-02-21,20,18-29,Respiratory,Kidney disease,Cardiac procedure,Emergency,Home,9,0
+E000927,P00352,2024-08-12,2024-08-15,23,18-29,Respiratory,Type 2 diabetes,Cardiac procedure,Emergency,Home,3,0
+E001165,P00337,2025-07-08,2025-07-16,59,45-59,Cardiology,Type 2 diabetes,Blood test,Urgent,Home,8,0
+E000716,P00520,2025-01-12,2025-01-13,45,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,1,0
+E000767,P00399,2024-09-27,2024-10-01,69,60-74,Endocrinology,Type 2 diabetes,None recorded,Elective,Home,4,0
+E000922,P00373,2025-11-26,2025-11-29,32,30-44,General Medicine,Heart failure,None recorded,Emergency,Skilled nursing facility,3,0
+E000826,P00059,2024-12-11,2024-12-15,52,45-59,General Medicine,Kidney disease,None recorded,Emergency,Home,4,0
+E000416,P00441,2024-05-06,2024-05-11,49,45-59,General Medicine,Heart failure,None recorded,Urgent,,5,0
+E000197,P00223,2025-03-28,2025-04-03,25,18-29,General Medicine,Type 2 diabetes,Cardiac procedure,Elective,Home,6,0
+E000082,P00285,2025-06-23,2025-06-25,54,45-59,Surgery,Heart failure,Blood test,Emergency,Other facility,2,0
+E000579,P00581,2024-08-12,2024-08-13,70,60-74,Surgery,Hypertension,Blood test,Elective,Home,1,0
+E000921,P00568,2025-07-15,2025-07-19,34,30-44,Endocrinology,Kidney disease,Blood test,Emergency,Other facility,4,0
+E000598,P00507,2024-05-15,2024-05-18,63,60-74,General Medicine,COPD,Cardiac procedure,Emergency,Home,3,0
+E000003,P00426,2025-12-19,2025-12-25,79,75+,Cardiology,Type 2 diabetes,Respiratory therapy,Emergency,Home,6,0
+E000750,P00103,2024-08-22,2024-08-23,72,60-74,Respiratory,Pneumonia,,Emergency,Rehabilitation,1,0
+E000726,P00077,2024-04-06,2024-04-09,56,45-59,Endocrinology,COPD,Respiratory therapy,Urgent,Other facility,3,0
+E000829,P00562,2025-01-18,2025-01-19,48,45-59,Endocrinology,Pneumonia,Blood test,Emergency,Home,1,0
+E000970,P00024,2025-12-15,2025-12-20,78,75+,Surgery,Kidney disease,Imaging,Urgent,Home,5,0
+E000513,P00547,2025-10-04,2025-10-13,60,60-74,General Medicine,Heart failure,None recorded,Elective,Home,9,0
+E001106,P00118,2024-03-11,2024-03-12,56,45-59,General Medicine,Pneumonia,None recorded,Urgent,Rehabilitation,1,0
+E000554,P00207,2024-10-15,2024-10-18,56,45-59,General Medicine,Heart failure,Respiratory therapy,Elective,Home,3,0
+E001124,P00159,2025-04-21,2025-04-28,20,18-29,Endocrinology,Type 2 diabetes,None recorded,Elective,Home,7,0
+E001052,P00238,2025-02-07,2025-02-18,72,60-74,Endocrinology,COPD,Blood test,Elective,Home,11,0
+E000077,P00215,2025-04-24,2025-04-27,25,18-29,General Medicine,Pneumonia,Blood test,Emergency,Home,3,0
+E000667,P00328,2024-03-22,2024-03-26,20,18-29,Endocrinology,COPD,Blood test,Elective,Home,4,0
+E000840,P00592,2024-11-24,2024-11-28,64,60-74,Endocrinology,Hypertension,Blood test,Elective,Skilled nursing facility,4,1
+E000029,P00355,2024-04-22,2024-04-23,90,75+,Cardiology,Type 2 diabetes,Imaging,Emergency,Home,1,0
+E000020,P00293,2024-11-17,2024-11-18,84,75+,Cardiology,Heart failure,None recorded,Emergency,Home,1,0
+E001021,P00037,2025-11-21,2025-11-25,64,60-74,Cardiology,COPD,Cardiac procedure,Elective,Home,4,0
+E000790,P00008,2025-11-05,2025-11-07,69,60-74,Cardiology,Hypertension,Imaging,Emergency,Rehabilitation,2,0
+E000375,P00577,2024-04-18,2024-04-30,54,45-59,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,12,0
+E000435,P00282,2024-10-29,2024-11-05,25,18-29,Endocrinology,Heart failure,Cardiac procedure,Emergency,Home,7,0
+E000968,P00207,2025-09-07,2025-09-12,56,45-59,General Medicine,Type 2 diabetes,Blood test,Elective,Rehabilitation,5,0
+E000457,P00097,2025-09-10,2025-09-11,76,75+,Cardiology,Type 2 diabetes,Blood test,Emergency,Home,1,0
+E000616,P00416,2024-03-21,2024-04-01,24,18-29,Surgery,Heart failure,None recorded,Elective,Home,11,0
+E000685,P00111,2025-03-26,2025-03-28,32,30-44,General Medicine,Type 2 diabetes,,Elective,Home,2,0
+E000311,P00433,2024-08-31,2024-09-05,39,30-44,General Medicine,COPD,None recorded,Emergency,Home,5,0
+E000828,P00584,2025-11-24,2025-11-29,78,75+,General Medicine,Heart failure,Blood test,Emergency,Other facility,5,0
+E000631,P00480,2024-09-16,2024-09-30,89,75+,Respiratory,Heart failure,Cardiac procedure,Elective,Home,14,0
+E000660,P00188,2025-06-20,2025-06-26,41,30-44,Endocrinology,Type 2 diabetes,Imaging,Emergency,Home,6,0
+E000490,P00394,2024-03-09,2024-03-14,57,45-59,Cardiology,Type 2 diabetes,Blood test,Elective,Home,5,0
+E000508,P00162,2025-10-28,2025-10-31,44,30-44,Cardiology,Pneumonia,Respiratory therapy,Emergency,Home,3,0
+E000459,P00547,2025-09-04,2025-09-08,60,60-74,General Medicine,Type 2 diabetes,Blood test,Elective,Home,4,1
+E001131,P00265,2024-02-17,2024-02-22,33,30-44,Surgery,Type 2 diabetes,Blood test,Urgent,Home,5,0
+E000788,P00446,2024-06-03,2024-06-09,51,45-59,Cardiology,Hypertension,Imaging,Emergency,Home,6,0
+E000412,P00150,2024-04-14,2024-04-17,27,18-29,Cardiology,Kidney disease,None recorded,Emergency,Home,3,0
+E001040,P00538,2025-10-07,2025-10-09,70,60-74,Endocrinology,Type 2 diabetes,None recorded,Urgent,Home,2,0
+E000937,P00103,2025-02-01,2025-02-03,72,60-74,Endocrinology,Hypertension,Respiratory therapy,Emergency,Rehabilitation,2,0
+E000434,P00086,2025-10-04,2025-10-06,44,30-44,Respiratory,Hypertension,Blood test,Elective,Home,2,0
+E000672,P00400,2024-05-30,2024-06-01,46,45-59,General Medicine,Type 2 diabetes,Blood test,Emergency,Rehabilitation,2,0
+E001142,P00220,2024-10-14,2024-10-17,87,75+,Surgery,Pneumonia,Imaging,Emergency,Home,3,0
+E000270,P00385,2024-02-14,2024-02-15,84,75+,Surgery,Pneumonia,Blood test,Emergency,Other facility,1,0
+E000181,P00610,2025-12-16,2025-12-19,77,75+,Surgery,COPD,None recorded,Elective,Home,3,0
+E001146,P00314,2024-07-06,2024-07-12,55,45-59,Endocrinology,Heart failure,Blood test,Emergency,Home,6,1
+E001144,P00549,2025-06-22,2025-06-23,56,45-59,Endocrinology,COPD,Blood test,Emergency,Rehabilitation,1,1
+E000865,P00550,2025-03-06,2025-03-08,55,45-59,General Medicine,Heart failure,Imaging,Emergency,Home,2,0
+E000733,P00600,2025-09-01,2025-09-07,66,60-74,Respiratory,Hypertension,None recorded,Emergency,Home,6,0
+E000350,P00107,2024-01-04,2024-01-06,51,45-59,Surgery,Kidney disease,None recorded,Elective,Home,2,0
+E000138,P00021,2024-08-04,2024-08-11,36,30-44,Respiratory,Heart failure,None recorded,Emergency,Home,7,0
+E001089,P00424,2025-11-14,2025-11-20,89,75+,Respiratory,Type 2 diabetes,Imaging,Elective,Home,6,0
+E000935,P00288,2024-11-17,2024-11-21,59,45-59,Endocrinology,Type 2 diabetes,Blood test,Urgent,Home,4,0
+E000555,P00640,2025-04-02,2025-04-08,32,30-44,General Medicine,Type 2 diabetes,Surgical procedure,Emergency,Home,6,0
+E000881,P00056,2025-08-26,2025-08-31,52,45-59,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,5,0
+E000493,P00490,2025-04-24,2025-05-05,32,30-44,General Medicine,Type 2 diabetes,None recorded,Urgent,Home,11,0
+E000644,P00313,2025-09-09,2025-09-14,86,75+,General Medicine,Type 2 diabetes,Imaging,Emergency,Home,5,0
+E000652,P00425,2024-07-03,2024-07-07,63,60-74,Cardiology,Type 2 diabetes,Respiratory therapy,Elective,Rehabilitation,4,1
+E001113,P00126,2025-01-07,2025-01-11,41,30-44,General Medicine,Type 2 diabetes,None recorded,Elective,Home,4,0
+E000801,P00008,2025-10-03,2025-10-10,69,60-74,Surgery,Heart failure,Blood test,Emergency,Other facility,7,1
+E000779,P00177,2024-02-11,2024-02-15,37,30-44,Cardiology,COPD,Blood test,Elective,Home,4,0
+E000420,P00330,2025-12-24,2025-12-30,51,45-59,Respiratory,Kidney disease,Cardiac procedure,Elective,Home,6,0
+E000632,P00213,2025-11-26,2025-11-29,31,30-44,General Medicine,Pneumonia,Cardiac procedure,Emergency,Home,3,0
+E000100,P00091,2024-01-22,2024-01-25,42,30-44,Cardiology,Hypertension,Cardiac procedure,Emergency,Home,3,0
+E000541,P00461,2024-11-10,2024-11-21,32,30-44,Surgery,Type 2 diabetes,None recorded,Elective,Home,11,0
+E000415,P00012,2024-02-13,2024-02-16,21,18-29,General Medicine,Heart failure,Respiratory therapy,Emergency,Home,3,0
+E000789,P00354,2024-06-02,2024-06-05,65,60-74,General Medicine,Hypertension,Respiratory therapy,Emergency,Home,3,0
+E000451,P00625,2024-05-18,2024-05-27,45,45-59,General Medicine,Type 2 diabetes,None recorded,Emergency,Home,9,0
+E000932,P00455,2025-12-13,2025-12-27,70,60-74,Endocrinology,Type 2 diabetes,Blood test,Emergency,Home,14,0
+E001101,P00312,2024-07-14,2024-07-17,19,18-29,Cardiology,Pneumonia,Imaging,Emergency,Home,3,0
+E000046,P00631,2025-12-20,2025-12-29,71,60-74,Cardiology,Type 2 diabetes,Surgical procedure,Elective,Skilled nursing facility,9,0
+E000535,P00376,2025-09-20,2025-09-27,40,30-44,General Medicine,Type 2 diabetes,Respiratory therapy,Elective,Home,7,0
+E000071,P00518,2024-09-26,2024-09-30,87,75+,Endocrinology,Pneumonia,None recorded,Urgent,Rehabilitation,4,0
+E000273,P00099,2024-11-23,2024-11-25,20,18-29,General Medicine,Type 2 diabetes,Respiratory therapy,Emergency,Home,2,0
+E000291,P00525,2024-07-19,2024-07-20,48,45-59,Endocrinology,COPD,None recorded,Emergency,Home,1,0
+E000966,P00383,2025-11-05,2025-11-07,73,60-74,Surgery,Type 2 diabetes,None recorded,Emergency,Home,2,0
+E000689,P00290,2024-02-14,2024-02-21,89,75+,Cardiology,Type 2 diabetes,Blood test,Elective,Home,7,0
+E000067,P00589,2024-02-10,2024-02-12,83,75+,General Medicine,Type 2 diabetes,Blood test,Elective,Home,2,0
+E000165,P00272,2025-02-09,2025-02-18,80,75+,Cardiology,Type 2 diabetes,None recorded,Elective,Other facility,9,0
+E000174,P00470,2024-11-02,2024-11-04,33,30-44,Surgery,COPD,Imaging,Emergency,Home,2,0
+E000040,P00411,2024-01-30,2024-01-31,55,45-59,Respiratory,Type 2 diabetes,Blood test,Elective,,1,0
+E001085,P00131,2025-05-12,2025-05-13,84,75+,Cardiology,Kidney disease,Blood test,Urgent,Home,1,0
+E000478,P00012,2024-11-02,2024-11-08,21,18-29,Surgery,Hypertension,None recorded,Urgent,Home,6,0
+E000163,P00266,2024-09-13,2024-09-15,57,45-59,Cardiology,Hypertension,Imaging,Elective,Home,2,0
+E000719,P00154,2024-11-25,2024-11-26,32,30-44,General Medicine,Heart failure,None recorded,Elective,Home,1,0
+E000745,P00517,2024-10-04,2024-10-07,63,60-74,Respiratory,Hypertension,Blood test,Emergency,Home,3,0
+E000607,P00211,2024-01-07,2024-01-15,88,75+,Respiratory,Type 2 diabetes,,Urgent,Rehabilitation,8,0
+E000049,P00441,2024-08-25,2024-08-29,49,45-59,Respiratory,Type 2 diabetes,None recorded,Emergency,Home,4,0
+E000796,P00192,2024-01-02,2024-01-06,45,45-59,General Medicine,Pneumonia,Blood test,Emergency,Home,4,0
+E000984,P00422,2025-04-15,2025-04-26,78,75+,Endocrinology,Heart failure,Imaging,Emergency,Home,11,0
+E000120,P00075,2024-10-16,2024-10-23,25,18-29,General Medicine,Type 2 diabetes,Blood test,Emergency,Home,7,0
+E000662,P00478,2024-08-04,2024-08-08,86,75+,Respiratory,Pneumonia,Blood test,Urgent,Home,4,0
+E000680,P00609,2024-03-14,2024-03-17,63,60-74,General Medicine,Hypertension,Imaging,Emergency,Skilled nursing facility,3,0
+E000246,P00055,2024-01-27,2024-01-30,78,75+,Endocrinology,Pneumonia,Surgical procedure,Emergency,Home,3,0
+E000299,P00185,2024-12-07,2024-12-11,43,30-44,Endocrinology,Pneumonia,None recorded,Emergency,Home,4,0
+E001043,P00270,2024-11-26,2024-11-27,88,75+,General Medicine,Heart failure,Blood test,Emergency,Rehabilitation,1,0
+E000171,P00069,2025-10-04,2025-10-05,19,18-29,Endocrinology,Type 2 diabetes,Blood test,Elective,Home,1,0
+E000151,P00557,2024-02-14,2024-02-16,25,18-29,Surgery,Type 2 diabetes,Blood test,Elective,Home,2,0
+E000153,P00597,2024-12-27,2025-01-05,40,30-44,Cardiology,Heart failure,Imaging,Elective,Home,9,0
+E000319,P00611,2024-12-27,2024-12-31,44,30-44,Surgery,Heart failure,Blood test,Elective,Home,4,0
+E001119,P00471,2025-09-13,2025-09-16,38,30-44,Respiratory,Pneumonia,Blood test,Elective,Home,3,0
+E000764,P00609,2025-08-20,2025-08-22,63,60-74,General Medicine,Type 2 diabetes,Respiratory therapy,Urgent,Home,2,1
